@@ -40,6 +40,10 @@ file
     ```Shell
     ngrok http http://localhost:8501
     ```
+### Get sources from github
+```text
+git clone git@github.com:bhagavansprasad/QueryMate.git
+```
 
 ### TODO
 1. Image search

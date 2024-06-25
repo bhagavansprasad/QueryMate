@@ -1,0 +1,202 @@
+Linux : Day1
+kali Linux link:https://cdimage.kali.org/kali-2024.1/kali-linux-2024.1-virtualbox-amd64.7z
+
+Virtualbox:https://download.virtualbox.org/virtualbox/7.0.18/VirtualBox-7.0.18-162988-Win.exe
+
+killercoda:https://killercoda.com/playgrounds/scenario/ubuntu
+
+
+WWW:
+
+WHAT:---
+
+WHERE:
+
+WHY:---?
+
+1)$ touch 1.txt ( to create empty file)
+
+1.1)$touch 2.txt 3.txt 4.txt 5.txt ( to create multiple files at once)
+
+2)$ ls ( to list the content)
+
+2.1)$ ls a ( to see content inside folder a)
+
+3)$pwd ( to check current location)
+
+4)$mkdir a ( to create a folder)
+
+5)$cd a ( to go inside a )
+
+5.1)$cd .. ( to go one folder back)
+
+6)$cat 1.txt ( to display content)
+
+6.1)$cat > 10.txt ( to override content)
+
+ctrl+D (to save)
+
+ctrl+D (to exit)
+
+6.2)cat >> 10.txt (to add new content without overriding )
+
+ctrl+D (to save)
+
+ctrl+D (to exit)
+
+Note: if u get ubuntu on same line , open the same file with nano save and exit .
+
+7)$nano 1.txt ( to open a file with nano)
+
+ctrl+s----> to save
+
+ctrl+x----> to exit
+
+7.1)$nano 6.txt ( to create a new file using nano)
+
+8)$cp 1.txt /root/a/ (to copy 1.txt inside a)
+
+8.1)cp -r  b /root/a/ ( to copy a inside b)
+
+9)$mv 2.txt /root/c/ ( to move 2.txt inside c)
+
+9.1)$mv d /root/e/ ( to move folder d inside e)
+
+9.2)$mv 5.txt 10.txt ( to rename file from 5.txt to 10.txt)
+
+9.3)$mv x y ( to rename folder x to y)
+
+10)$rm 1.txt ( to delete file 1.txt)
+
+10.1)$rm 2.txt 10.txt ( to delete multiple files)
+
+10.2)$rm -r a ( to delete folder with content)
+
+10.2)$rmdir xx ( to delete empty folder)
+
+10.2)$rmdir yy ZZ ( to delete multiple folder)
+
+11)$head 1.txt ( to see 10 line , its shows top 10 line by default)
+
+11.1)$head -n 3 1.txt ( to see top 3 lines)
+
+12)$tail 1.txt ( to see 10 lines form bottom)
+
+
+12.1)$tail -n 2 1.txt ( to see two lines from bottom)
+
+13)$grep "deep" 1.txt ( to search pattern deep inside 1.txt)
+
+13.1)$grep -i "deep" 1.txt ( to look combination of character d e e p inside 1.txt without lookin case)
+
+13.2)$grep -n "deep" 1.txt ( to see pattern along with file number)
+
+13.3)$grep -r "deep" /root/ ( to look every pattern in specific path)
+
+14)$sudo su ( used to switch user to root)
+
+14.1)#exit ( to switch back to normal user)
+
+15)$sudo adduser deep ( to create user deep)
+
+15.1)$getent passwd deep ( to see user is created or not)
+
+15.2)$sudo addgroup mygroup (to create group )
+
+15.3)$id deep ( to check uid and gid of user deep)
+
+15.4)$getent group ( to check groups in system)
+
+15.5)$groups username ( to check info related to user group)
+
+15.6)$sudo usermod -a -G groupaname username ( to add user to group)
+
+16)$sudo apt install apache2 ( to install service apache2)
+
+16.1)$ssytemctl status apache2 ( to check service)
+
+16.2)$systemctl start apaxhe2 ( to start the service)
+
+17)$sudo apt remove apache2 ( to remove service apache2)
+
+17.1)$sudo apt purge apache2 ( to remove all directories and configuration file along with service)
+
+18)ls -l ( to check file along with info)
+
+- file
+d - directory
+
+rwx|rwx|rwx| 
+
+owner|group|other
+
+r----read -4
+
+w----write -2
+
+x----execute -1
+
+
+
+
+all: 7
+
+write execute: 3
+
+execute: 1
+
+no permission: 0
+
+
+
+
+
+x-----execute -1
+
+
+19)$chmod 777 2.txt ( to give all permission read , write excecute)
+
+19.1)$chmod 000 2.txt ( to remove all permission)
+
+20)$nano 1.sh
+
+sudo apt update
+
+ctrl+s
+
+ctrl +x
+
+20.1)$./1.sh ( to execute a file)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

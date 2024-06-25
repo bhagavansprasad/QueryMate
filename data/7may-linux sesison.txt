@@ -1,0 +1,61 @@
+Linux : Day1
+
+
+WWW:
+
+WHAT:---
+
+WHERE:
+
+WHY:---?
+
+1)$ touch 1.txt ( to create empty file)
+
+1.1)$touch 2.txt 3.txt 4.txt 5.txt ( to create multiple files at once)
+
+2)$ ls ( to list the content)
+
+2.1)$ ls a ( to see content inside folder a)
+
+3)$pwd ( to check current location)
+
+4)$mkdir a ( to create a folder)
+
+5)$cd a ( to go inside a )
+
+5.1)$cd .. ( to go one folder back)
+
+6)$cat 1.txt ( to display content)
+
+7)$nano 1.txt ( to open a file with nano)
+
+ctrl+s----> to save
+
+ctrl+x----> to exit
+
+7.1)$nano 6.txt ( to create a new file using nano)
+
+8)$cp 1.txt /root/a/ (to copy 1.txt inside a)
+
+8.1)cp a /root/b/ ( to copy a inside b)
+
+9)$mv 2.txt /root/c/ ( to move 2.txt inside c)
+
+9.1)$
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

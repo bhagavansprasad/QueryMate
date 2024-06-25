@@ -1,0 +1,2070 @@
+5/7/24, 8:26 AM - Messages and calls are end-to-end encrypted. No one outside of this chat, not even WhatsApp, can read or listen to them. Tap to learn more.
+5/7/24, 8:21 AM - ~ Rachana Pathak Das created group "Data science and AI 7th May 24 Batch"
+5/7/24, 8:26 AM - You joined using this group's invite link
+5/7/24, 8:26 AM - You're now an admin
+5/7/24, 8:28 AM - ~ Rachana Pathak Das changed this group's icon
+5/7/24, 8:30 AM - +91 99208 38811 joined using this group's invite link
+5/7/24, 8:30 AM - +91 95792 15739 joined using this group's invite link
+5/7/24, 8:32 AM - 🇮🇳DSDrSheshadriSurgeon: So we need to creat mkdir a
+Then
+Touch 1.txt
+Then if we type ls
+Then will get 1.txt a folder
+5/7/24, 8:32 AM - +91 95823 01910: Please write all the questions on the chat of the class because right now class is going on
+5/7/24, 8:33 AM - +91 98537 84862 joined using this group's invite link
+5/7/24, 8:33 AM - Bhagavan: *Execute the below steps in the same order*
+
+mkdir a
+cd a
+pwd
+
+mkdir b
+cd b
+pwd
+5/7/24, 8:34 AM - 🇮🇳DSDrSheshadriSurgeon: Ok
+5/7/24, 8:35 AM - 🇮🇳DSDrSheshadriSurgeon: Then how do I put txt file in folder a?
+5/7/24, 8:35 AM - Bhagavan: cd a
+touch 1.txt
+5/7/24, 8:35 AM - +91 99208 38811: No buddy, mkdir and touch both are independent cmds. mkdir used for folder creation and touch for file. You run 
+~touch filename.txt
+~is
+It will show same results
+5/7/24, 8:36 AM - 🇮🇳DSDrSheshadriSurgeon: Got it
+5/7/24, 8:36 AM - +91 99208 38811: Create folder using 
+~ mkdir a
+~ touch filename.txt
+~ls
+5/7/24, 8:37 AM - 🇮🇳DSDrSheshadriSurgeon: So for Inserting nano in 1.txt what should we type
+5/7/24, 8:37 AM - Bhagavan: YES
+5/7/24, 8:38 AM - +91 99208 38811: nano cmd is used for Create (if file not present)and edit file
+5/7/24, 8:38 AM - DSDebanjanPhD: Lectures_Day-01-02-03.pdf (file attached)
+Lectures_Day-01-02-03.pdf
+5/7/24, 8:39 AM - 🇮🇳DSDrSheshadriSurgeon: Ok
+5/7/24, 8:49 AM - +91 99208 38811 updated the message timer. New messages will disappear from this chat 24 hours after they're sent, except when kept.
+5/7/24, 8:51 AM - +91 98537 84862 turned off disappearing messages.
+5/7/24, 8:51 AM - DSDebanjanPhD: The touch command is used to create an empty file.
+5/7/24, 8:52 AM - +91 76848 79100 joined using this group's invite link
+5/7/24, 8:52 AM - +91 99496 14630 joined using this group's invite link
+5/7/24, 8:54 AM - DSDebanjanPhD: To delete a file we need to use rm command.
+5/7/24, 8:53 AM - +91 82481 11822 joined using this group's invite link
+5/7/24, 8:54 AM - DSDebanjanPhD: rm stands for remove
+5/7/24, 8:54 AM - 🇮🇳DSDrSheshadriSurgeon: Ok
+5/7/24, 8:55 AM - 🇮🇳DSDrSheshadriSurgeon: To remove folder what command do we use
+5/7/24, 8:56 AM - +91 99208 38811: same rm -fr
+5/7/24, 8:57 AM - +91 98537 84862: -r or -fr ?
+5/7/24, 8:57 AM - 🇮🇳DSDrSheshadriSurgeon: So it's like folder (a,b,etc) file (1.txt etc) subfile ( nano command and open to write text ) and write text in subfile
+5/7/24, 8:57 AM - 🇮🇳DSDrSheshadriSurgeon: Ok
+5/7/24, 8:58 AM - +91 99208 38811: f means force and r recursive....u can use -r only
+5/7/24, 9:00 AM - +91 99208 38811: 7may-linux sesison.txt (file attached)
+7may-linux sesison.txt
+5/7/24, 9:14 AM - DSDebanjanPhD: -r flag/option denotes recursive in the modification of rm command. However, in ls command, -r indicates reverse (ordering).
+5/7/24, 7:30 PM - +91 73288 57331: Hlw guys
+5/7/24, 7:30 PM - +91 73288 57331: Somebody got a Linux OS for practice.
+5/7/24, 7:32 PM - Bhagavan: It's very easy to have your own Linux.
+
+As easy as installing Installing Windows application
+5/7/24, 7:34 PM - +91 73288 57331: Okay
+5/7/24, 7:34 PM - +91 73288 57331: Where are you from?
+5/7/24, 7:34 PM - Bhagavan: You can have Linux On windows laptop along with Windows
+5/7/24, 7:35 PM - Bhagavan: Bengaluru
+5/7/24, 7:37 PM - +91 73288 57331: How??
+5/7/24, 7:38 PM - +91 73288 57331: Can you Guide me ??
+5/7/24, 7:39 PM - Bhagavan: Install Ubuntu 22.04 LTS (WSL2 Image) from Microsoft Store
+5/7/24, 7:39 PM - +91 73288 57331: Okay
+5/7/24, 7:40 PM - Bhagavan: Just search in MS Store on your Windows Laptop
+5/7/24, 7:45 PM - DSDebanjanPhD: Waiting for this message
+5/7/24, 7:46 PM - +91 73288 57331: Yes searched
+5/7/24, 8:13 PM - Bhagavan: Did you find the results?
+If yes just install
+5/7/24, 8:13 PM - Bhagavan: Sorry for delayed response
+5/7/24, 8:54 PM - Bhagavan: *This 3 min video helps you in stalling Ubuntu22.04*
+
+https://www.youtube.com/watch?v=6mwBZFFhTHA
+5/7/24, 9:00 PM - +91 73288 57331: Okay my dear friend 🙏
+5/7/24, 9:05 PM - Bhagavan: Make sure you install Ubuntu on a drive (D or E) where more space is available for future purpose
+5/7/24, 9:05 PM - Bhagavan: Because ML models takes more space
+5/7/24, 9:06 PM - +91 73288 57331: No bro first I installed a virtual box then I am installing Ubuntu.
+5/7/24, 9:08 PM - Bhagavan: Having a good experience on VMs (different Virtual boxes) and on WSL-Ubuntu, I can vouch WSL-Ubuntu for more convenient
+5/7/24, 9:09 PM - Bhagavan: There are Limitations and Performance issues with VMs
+5/7/24, 9:09 PM - +91 73288 57331: I have an idea about a virtual box.
+5/7/24, 9:10 PM - Bhagavan: Yeah, go ahead
+5/7/24, 9:11 PM - Bhagavan: Since I have experience on both, I can recommend.  
+In fact I moved all my dev environment from VM to WSL-Ubuntu
+5/7/24, 9:12 PM - Bhagavan: again, its a personal choice, I can just recomend
+5/7/24, 9:13 PM - +91 73288 57331: Is this wsl-ubuntu?.
+5/7/24, 9:13 PM - Bhagavan: Yes Ubuntu 22.04 LTS on WSL (Windows Subsystem Linux)
+5/7/24, 9:13 PM - +91 73288 57331: Okay
+5/7/24, 9:14 PM - +91 73288 57331: Okay let me check the video.
+5/7/24, 11:33 PM - +91 93152 41971 joined using this group's invite link
+5/8/24, 6:57 AM - +91 70057 91429: Guys did u get the link for today's class?
+5/8/24, 6:57 AM - +1 (201) 450-4295: We need to
+Use the same link
+5/8/24, 6:58 AM - +91 70057 91429: Ohk
+5/8/24, 6:58 AM - +91 70057 91429: Thank you
+5/8/24, 7:28 AM - +91 93152 41971: Guys, anyone who has elected for data analytics ?
+5/8/24, 8:39 AM - +91 95823 01910: This group is both for data science and data analytics
+5/8/24, 8:43 AM - +994 40 975 31 42 joined using this group's invite link
+5/8/24, 8:43 AM - +91 84313 41687 joined using this group's invite link
+5/8/24, 8:44 AM - ~ Manisha was added
+5/8/24, 8:43 AM - +91 96678 66478 joined using this group's invite link
+5/8/24, 8:44 AM - +91 88841 64664: Hi
+5/8/24, 8:44 AM - +91 82208 62531 joined using this group's invite link
+5/8/24, 8:44 AM - +91 90662 25219 joined using this group's invite link
+5/8/24, 8:44 AM - +91 88841 64664 joined using this group's invite link
+5/8/24, 8:44 AM - +91 90033 10998 joined using this group's invite link
+5/8/24, 8:44 AM - +91 97008 73385 joined using this group's invite link
+5/8/24, 8:47 AM - +91 89202 67303 joined using this group's invite link
+5/8/24, 8:47 AM - +91 86678 76073 joined using this group's invite link
+5/8/24, 8:48 AM - +91 88022 40947 joined using this group's invite link
+5/8/24, 8:50 AM - +91 93487 59266 joined using this group's invite link
+5/8/24, 8:53 AM - +91 72057 52124 joined using this group's invite link
+5/8/24, 8:55 AM - +91 94404 65243: Do we need to submit weekend survey on everyday?
+5/8/24, 8:56 AM - +91 93152 41971: Guys, my only doubt is if this is a data science and AI batch, then where is the batch for data analytics folks.
+5/8/24, 8:56 AM - +91 93152 41971: Because data science and analytics modules are completely different
+5/8/24, 8:57 AM - +91 97008 73385: Heyy guys did any  faculty is here
+5/8/24, 8:58 AM - +91 97008 73385: VID-20240508-WA0009.mp4 (file attached)
+Check this for class recordings
+5/8/24, 8:58 AM - +91 96678 66478: Sir this class is not for
+5/8/24, 8:58 AM - +91 96678 66478: Data analytical
+5/8/24, 8:58 AM - +91 97008 73385: R u a faculty member
+5/8/24, 8:58 AM - +91 96678 66478: Yes have join
+5/8/24, 8:59 AM - +91 96678 66478: IMG-20240508-WA0010.jpg (file attached)
+See
+5/8/24, 8:59 AM - +91 96678 66478: I have enroll for data analytical
+5/8/24, 8:59 AM - +91 96678 66478: What should I do sir
+5/8/24, 9:00 AM - +91 93152 41971: Same here.
+5/8/24, 9:00 AM - +91 96678 66478: I m so confused
+5/8/24, 9:00 AM - +91 97008 73385: U r also a Data Analytics course student?!
+5/8/24, 9:01 AM - +91 73288 57331: will Linux help in data science ? somebody tell me
+5/8/24, 9:01 AM - +91 93152 41971: Yes. That is why I am raising questions again and again. This Linux is not useful for data analytics purpose
+5/8/24, 9:01 AM - +91 99208 38811: check with support team
+5/8/24, 9:01 AM - +91 93152 41971: For data science it is useful
+5/8/24, 9:01 AM - +91 96678 66478: Also I have raised for it
+5/8/24, 9:02 AM - +91 97008 73385: Ok how many months of u r course was
+5/8/24, 9:02 AM - +994 40 975 31 42: Any one can resend this group link
+5/8/24, 9:02 AM - +91 93152 41971: Any reply ?
+5/8/24, 9:02 AM - +91 93152 41971: 7
+5/8/24, 9:02 AM - +91 96678 66478: Nope
+5/8/24, 9:02 AM - +91 96678 66478: Yes it's 7 months course
+5/8/24, 9:02 AM - +91 93152 41971: Where u have raised? To the support team ?
+5/8/24, 9:03 AM - +91 96678 66478: Yes u can check my mail
+5/8/24, 9:03 AM - +91 93152 41971: Ask them for money back then, because this doesn't make any sense.
+5/8/24, 9:04 AM - +91 93152 41971: Why we should learn Linux when it is not included in our course.
+5/8/24, 9:04 AM - +91 97008 73385: Share u r email Id n password to @919315241971 so that they can check it!
+5/8/24, 9:05 AM - +91 96678 66478: Ok
+5/8/24, 9:05 AM - +91 93152 41971: No need to share I'd and password.
+5/8/24, 9:05 AM - +91 96678 66478: null
+5/8/24, 9:05 AM - +91 97008 73385: Then enjoy the Cousre/syllabus of 1.75lakhs 🔥
+5/8/24, 9:05 AM - +91 93152 41971: This is confidential
+5/8/24, 9:06 AM - +91 97008 73385: Keep growing bro
+5/8/24, 9:06 AM - +91 93152 41971: Delete your text. Neha.
+5/8/24, 9:06 AM - +91 97008 73385: U delete it as an admin
+5/8/24, 9:06 AM - +91 97008 73385: Well its gives o ly access to Intellipaat
+5/8/24, 9:06 AM - +91 93152 41971: Now who made me an admin.
+5/8/24, 9:07 AM - +91 97008 73385: Don't u know that
+5/8/24, 9:08 AM - +91 93152 41971: Nope.
+5/8/24, 9:09 AM - +91 96678 66478: I really don't know what should I do
+5/8/24, 9:09 AM - +91 96678 66478: Mam
+5/8/24, 9:10 AM - +91 97008 73385: I thought 16 admins r faculty members but it's still not conformed that is there any faculty members r there in group or not
+5/8/24, 9:10 AM - +91 97008 73385: VID-20240508-WA0011.mp4 (file attached)
+5/8/24, 9:11 AM - +91 97008 73385: Check it was there in starting of Chat in group u added u n make u admin?
+5/8/24, 9:12 AM - +91 96678 66478: No
+5/8/24, 9:19 AM - +91 93152 41971: Advanced-Certification-in-Data-Analytics-iHUB-IITR.pdf (file attached)
+Advanced-Certification-in-Data-Analytics-iHUB-IITR.pdf
+5/8/24, 9:20 AM - +91 93152 41971: Guys our trainer name is pradeep ?
+5/8/24, 9:21 AM - +91 96678 66478: Where I will get to class of him
+5/8/24, 9:21 AM - +91 70057 91429: Executive-Post-Graduate-Certification-in-Data-Science-and-Artificial-Intelligence (2) (2).pdf (file attached)
+Executive-Post-Graduate-Certification-in-Data-Science-and-Artificial-Intelligence (2) (2).pdf
+5/8/24, 9:21 AM - +91 70057 91429: Guys Minerva is this course
+5/8/24, 9:21 AM - +91 96678 66478: Yes this is my course
+5/8/24, 9:21 AM - +91 70057 91429: Mine*
+5/8/24, 9:21 AM - +91 93152 41971: Please someone confirm?
+5/8/24, 9:22 AM - +91 70057 91429: Mine is executive pg certification in ai n ds
+5/8/24, 9:22 AM - +91 82481 11822: Yes
+5/8/24, 9:22 AM - +91 96678 66478: W Minerva would help me if I join her WhatsApp account
+5/8/24, 9:23 AM - +91 93152 41971: His name is Pradeep?
+5/8/24, 9:23 AM - +91 93152 41971: Right ?
+5/8/24, 9:23 AM - +91 95823 01910: This is a data analytics and data science course group. I made this group and just for connection and doubt resolving between peers. I am not any faculty, I m also a student here like you all.
+5/8/24, 9:23 AM - +91 82481 11822: In Training its display as Deep
+5/8/24, 9:24 AM - +91 95823 01910: I am Rachana.
+5/8/24, 9:24 AM - +91 97008 73385: So here is the sir Deep who is taking Classes right
+5/8/24, 9:24 AM - +91 93152 41971: IMG-20240508-WA0012.jpg (file attached)
+5/8/24, 9:25 AM - +91 96678 66478: Ok
+5/8/24, 9:25 AM - +91 93152 41971: The faculty names which are given in the brochure are not taking our sessions ?
+5/8/24, 9:26 AM - +91 96678 66478: Exactly
+5/8/24, 9:27 AM - +91 97008 73385: Oh my dear Data Analytics course pursuing students enjoy the Cousre of 11months and ask to u r concern person on whom guidance u get admission simple Bec all here r students n one our trainer deep sir o ly no official Person was in group <This message was edited>
+5/8/24, 9:28 AM - +91 76848 79100: IMG-20240508-WA0013.jpg (file attached)
+Till the python oops hands on they have mentioned intellipath team will take classes
+5/8/24, 9:28 AM - +91 82481 11822: So Rachana has created this group and it's not from intellipaat team.
+5/8/24, 9:28 AM - +91 97008 73385: Yes
+5/8/24, 9:28 AM - +91 95823 01910: Yes
+5/8/24, 9:29 AM - +91 95823 01910: Just to be connected within us.
+5/8/24, 9:29 AM - +91 93152 41971: But all are these data science modules
+5/8/24, 9:29 AM - +91 70057 91429: It's ok but I think we need one official group also for any updates and all
+5/8/24, 9:30 AM - ~ Madhuri left
+5/8/24, 9:30 AM - +91 70057 91429: So dat we can get everything sharable on this platform related to our program
+5/8/24, 9:30 AM - +91 93152 41971: Listen dear, it's not about enjoying the course. We elected for different courses based on our professional background and to keep its future consideration.
+5/8/24, 9:31 AM - +91 97008 73385: We just asked faculties to join group
+5/8/24, 9:31 AM - +91 82481 11822: In the first class deep said Linux is for basic understanding class. This is not related to DS or DA . Just we are learning the Basic of Linux comments.
+5/8/24, 9:31 AM - +91 93152 41971: Why should I waste my money and time on the course which won't be useful for me in the future
+5/8/24, 9:31 AM - +91 76848 79100: This sheet's models are data analytics but I think AI and few more things for data science
+5/8/24, 9:32 AM - +91 93152 41971: Dear, have you got the brochure for data analytics?
+5/8/24, 9:32 AM - +91 93152 41971: Check from there, our courses are different
+5/8/24, 9:32 AM - +91 97008 73385: Ok then asked to u r concern person on who's guidance u did join the cousre
+5/8/24, 9:32 AM - +91 93152 41971: Data science is more of IT related
+5/8/24, 9:32 AM - +91 93152 41971: And more technical course
+5/8/24, 9:32 AM - +91 70057 91429: How many of you opted for Executive PG certification in AI and DS
+5/8/24, 9:32 AM - +91 70057 91429: Course
+5/8/24, 9:33 AM - +91 70057 91429: I have opted for this course
+5/8/24, 9:33 AM - +91 97008 73385: This message was deleted
+5/8/24, 9:33 AM - +91 70057 91429: Are we all in diff course
+5/8/24, 9:33 AM - +91 97008 73385: Me too
+5/8/24, 9:33 AM - +91 76848 79100: It will many companies are asking different different expertise
+5/8/24, 9:33 AM - Bhagavan: Gargi, why all these discussions are happening in this group? 
+Can you talk to them 1 to 1
+5/8/24, 9:34 AM - +91 93152 41971: Because there are others also who opted for data analytics
+5/8/24, 9:34 AM - +91 97008 73385: R u pursuing PG course
+5/8/24, 9:34 AM - +91 70057 91429: Mine is for 11 months course..is yours also?
+5/8/24, 9:35 AM - +91 97008 73385: Yup
+5/8/24, 9:35 AM - +91 93152 41971: Being a doctor, data science is very technical for me
+5/8/24, 9:35 AM - +91 97008 73385: Im  aslo From same background
+5/8/24, 9:35 AM - +91 96678 66478: No it's just 7months
+5/8/24, 9:36 AM - +91 79762 75670 joined using this group's invite link
+5/8/24, 9:36 AM - +91 97008 73385: Only u 3 people r from Advance Certificates Cousre of Data Analytics that y they joined u with us maybe I guess <This message was edited>
+5/8/24, 9:37 AM - +91 93152 41971: Neha
+Me
+Shubhashree
+5/8/24, 9:37 AM - +91 96678 66478: Sir I really don't know what should I do
+5/8/24, 9:37 AM - +91 97008 73385: Ok three
+5/8/24, 9:38 AM - +91 79762 75670: hello everyone 
+my name is sanjay
+
+I am from Executive AI DS program.
+5/8/24, 9:38 AM - +91 96678 66478: Ok
+5/8/24, 9:38 AM - +91 96678 66478: What is AI DS
+5/8/24, 9:38 AM - +91 79762 75670: artificial intelligence , Data Science
+5/8/24, 9:39 AM - +91 96678 66478: What is my role I m a data analytical join course person
+5/8/24, 9:42 AM - +91 97008 73385: This message was deleted
+5/8/24, 9:44 AM - +91 97008 73385: Talk to a Person on whom guidance u join
+5/8/24, 9:51 AM - +91 70057 91429: We are all in the same pace..let's be jus patience some days n follow their guidelines and try to understand bit by bit..I hope after somedays everything will be sorted out
+5/8/24, 9:52 AM - +91 97008 73385: Positive waves 🤝
+5/8/24, 9:56 AM - +91 98537 84862: Dear all, pls pay attention 
+
+1) there is no official group from Intellipaat side. This group is created by students to stay connected.
+
+2) Intellipaat team combine multiple batches in a some classes depending upon the course content, progress and other requirements.
+
+3) In case you feel, this is not relevant to you, pls raise a support ticket or talk to them on their support number. They will clarify all your doubts. No one can help you here in whatsapp.
+
+4) I will recommend, those who have started their course in Executive PG in Data Science and AI (IIT R) on 7th May 24, to stay in this group . Others pls try to find your batchmates. 
+
+5) Please have patience and continue your classes.   Do attend Orientation program tonight. You will get to know everything.
+
+6) Requesting to maintain the group decorum and keep it clean. Use it only to share knowledge and learn more. Going forward we may need support for assignments
+5/8/24, 10:11 AM - +91 73288 57331: So Dey could you tell me, is this intelipat trustworthy or not.are students getting jobs there?
+5/8/24, 10:11 AM - +91 73288 57331: I have just a little bit of doubts.
+5/8/24, 10:13 AM - +91 97008 73385: Who ru by the way
+5/8/24, 10:15 AM - +91 98537 84862: just another trainee like you.
+5/8/24, 10:15 AM - +91 97008 73385: Trainee or student?
+5/8/24, 10:16 AM - +91 73288 57331: Somebody clarify me .
+5/8/24, 10:16 AM - +91 84313 41687: This message was deleted
+5/8/24, 10:22 AM - +91 98537 84862: Everyone in this group are students who have recently started their course. How are you expecting them to give job guarantee?
+You should have done detailed analysis before joining the course. 
+
+Be patient. Focus on the classes. You will be certified if you successfully complete the course. Getting a job depends on your effort and talent. Intellipaat will definitely support.
+5/8/24, 10:23 AM - +91 98537 84862: both means the same
+5/8/24, 10:24 AM - +91 97008 73385: U mean trainee deep also a student
+5/8/24, 10:26 AM - +91 73288 57331: Okay
+5/8/24, 10:27 AM - +91 94404 65243: Me also
+5/8/24, 10:27 AM - +91 98537 84862: Deep is trainer. Not trainee
+5/8/24, 10:34 AM - +91 95823 01910: Absolutely please be patient guys. I am from marketing domain, I m also not have any technical knowledge. This is where this Watsapp group will be of great help. We can try to resolve each other's problems and by this way our knowledge will also enhance.
+5/8/24, 10:46 AM - +91 73288 57331: Yeah 👍
+5/8/24, 10:47 AM - +91 97008 73385: Now its 4
+5/8/24, 10:48 AM - +91 97008 73385: IMG-20240508-WA0014.jpg (file attached)
+5/8/24, 10:52 AM - +91 97008 73385: Did u paid a fee or not?
+5/8/24, 10:53 AM - +91 73288 57331: Noo
+5/8/24, 10:53 AM - +91 73288 57331: My emi will be deducted by June 6
+5/8/24, 10:54 AM - +91 97008 73385: So u got loan right
+5/8/24, 10:54 AM - +91 73288 57331: Yess
+5/8/24, 10:55 AM - +91 73288 57331: What about you ??
+5/8/24, 10:56 AM - +91 97008 73385: So the full amount was send to Institute from u r financer right
+5/8/24, 10:56 AM - +91 97008 73385: So u r financer paid full fee with no back button
+5/8/24, 10:56 AM - +91 73288 57331: Okay
+5/8/24, 10:56 AM - +91 97008 73385: Same on finance
+5/8/24, 10:57 AM - +91 73288 57331: So you have paid the full amount
+5/8/24, 10:58 AM - +91 97008 73385: So what is a purpose of asking that questions which has to be asked before paying fee through any source
+5/8/24, 10:58 AM - +91 97008 73385: Yes
+5/8/24, 11:02 AM - +91 97008 73385: Ok do one thing if u r intrested pay 1lakh to me I will make sure u will receive an offer letter of 1.5lakhs CTC
+5/8/24, 11:02 AM - +91 98537 84862: Please use personal chat. Avoid spamming here.
+
+~ a sincere request.
+5/8/24, 11:04 AM - +91 73288 57331: 1.5lakhs per month.
+5/8/24, 11:06 AM - +91 97008 73385: Yes sir
+5/8/24, 11:08 AM - +91 97008 73385: Pls conform it before someone else get chance
+5/9/24, 7:52 AM - Bhagavan: I see lot of people facing Linux installation.
+I can recommend one simple Method which install Ubuntu.
+
+*Win Start button --> Microsoft Store --> search "Ubuntu 22.04 LTS" --> Install*
+5/9/24, 7:54 AM - +91 99208 38811: let me try buddy...thanks
+5/9/24, 7:56 AM - Bhagavan: *Here is the 3 min video*
+
+https://www.youtube.com/watch?v=6mwBZFFhTHA
+5/9/24, 8:10 AM - +91 95823 01910: I think we need not to install ubuntu
+5/9/24, 8:11 AM - +91 98537 84862: I followed deep and it is working for me.
+5/9/24, 8:11 AM - +91 98537 84862: Will try this also. Thanks
+5/9/24, 8:23 AM - +91 98537 84862: @919582301910 select the path of the extracted file ... it will start.. then give login id & password
+5/9/24, 8:28 AM - +91 95823 01910: After login ID and password what to click
+5/9/24, 8:29 AM - +91 98537 84862: IMG-20240509-WA0002.jpg (file attached)
+5/9/24, 8:32 AM - +91 95823 01910: Thanks
+5/9/24, 8:41 AM - +91 70057 91429: 7may-linux sesison (1).txt (file attached)
+5/9/24, 9:49 AM - +91 98537 84862: What is it ?
+5/9/24, 10:03 AM - +91 70057 91429: It's a software dat Deep Sir attached to the chatbox
+5/9/24, 10:25 AM - +91 93487 59266: It is virtual studio by microsoft
+5/9/24, 10:35 AM - +91 98537 84862: Okay
+5/9/24, 10:37 AM - Bhagavan: Is it Visual or Virtual?
+5/9/24, 10:38 AM - +91 93487 59266: @919902096750 Visual code,Sorry✌️
+5/9/24, 10:39 AM - +91 93487 59266: Who has taken the pg cource of data science,11 months
+5/9/24, 10:40 AM - +91 98537 84862: ✋🏻
+5/9/24, 10:40 AM - +91 93487 59266: Ok
+5/9/24, 10:40 AM - +91 93487 59266: Any one else
+5/9/24, 10:40 AM - +91 93487 59266: What are you doing now
+5/9/24, 10:40 AM - +91 93487 59266: Job or study
+5/9/24, 10:40 AM - +91 98537 84862: job
+5/9/24, 10:40 AM - +91 93487 59266: Ohh nice
+5/9/24, 10:41 AM - +91 93487 59266: In which domain
+5/9/24, 11:09 AM - +91 98537 84862: I work @ JSW group as Project Manager.
+5/9/24, 11:17 AM - +91 73288 57331: Supper
+5/9/24, 11:18 AM - +91 93487 59266: ✌️
+5/9/24, 11:19 AM - +91 98537 84862: What about you ?
+5/9/24, 11:19 AM - +91 93487 59266: I am doing my masters now
+5/9/24, 11:22 AM - +91 98537 84862: Can we have a quick introduction for everyone? 
+It will be good if we know each other well. 🙂
+5/9/24, 11:22 AM - +91 73288 57331: Yes ,why not
+5/9/24, 11:23 AM - +91 73288 57331: I 'm pravat Kumar das
+5/9/24, 11:23 AM - +91 73288 57331: From odisha
+5/9/24, 11:23 AM - +91 73288 57331: I am doing a job as a customer support engineer in sysnet global technology Pvt Ltd.
+5/9/24, 11:24 AM - +91 73288 57331: That's all about me.
+5/9/24, 11:25 AM - +91 93487 59266: Ya sure
+5/9/24, 11:26 AM - +91 93487 59266: *I am also from Odisha.
+*I am doing my masters in computer application from Chandigarh university
+5/9/24, 11:27 AM - +91 73288 57331: In which district
+5/9/24, 11:27 AM - +91 93487 59266: Jajpur
+5/9/24, 11:27 AM - +91 93487 59266: And you
+5/9/24, 11:27 AM - +91 73288 57331: Balasore
+5/9/24, 11:27 AM - +91 93487 59266: My neighbour
+5/9/24, 11:27 AM - +91 93487 59266: 😀
+5/9/24, 11:27 AM - +91 73288 57331: Yess
+5/9/24, 11:27 AM - +91 93487 59266: Where are you now
+5/9/24, 11:28 AM - +91 93487 59266: In Odisha or somewhere else
+5/9/24, 11:28 AM - +91 73288 57331: Assam
+5/9/24, 11:28 AM - +91 93487 59266: So far
+5/9/24, 11:28 AM - +91 98537 84862: I am from Balasore as well
+5/9/24, 11:28 AM - +91 73288 57331: Yesd
+5/9/24, 11:29 AM - +91 93487 59266: I think this group is dedicate to Odisha only😆
+5/9/24, 11:29 AM - +994 40 975 31 42: I am  muhamed riyas
+From Kerala
+I am working in medical sector
+5/9/24, 11:29 AM - +91 84313 41687: anyone from karnataka here 👉banglore 🤷‍♂️
+5/9/24, 11:29 AM - +91 73288 57331: There all guys are from odisha.
+5/9/24, 11:30 AM - +91 93487 59266: No
+5/9/24, 11:30 AM - +91 93487 59266: Many of us are from odisha
+5/9/24, 11:31 AM - +91 73288 57331: Okay
+5/9/24, 11:31 AM - +91 93487 59266: In the morning class many students were from Odisha but they are not available in this group
+5/9/24, 11:32 AM - +91 73288 57331: Okay
+5/9/24, 11:32 AM - +91 73288 57331: But in the early days I had worked in jajpur town in the finance sector.
+5/9/24, 11:33 AM - +91 93487 59266: In which company
+5/9/24, 11:33 AM - +91 93487 59266: And what is your educational qualification
+5/9/24, 11:33 AM - +91 73288 57331: Spandan microfinance
+5/9/24, 11:33 AM - +91 73288 57331: Bsc
+5/9/24, 11:33 AM - +91 93487 59266: Okk
+5/9/24, 11:34 AM - +91 73288 57331: Recently I have completed a diploma in a cloud computing course.
+5/9/24, 11:34 AM - +91 93487 59266: Basically you are not from technical back ground
+5/9/24, 11:34 AM - +91 93487 59266: Ohh kk
+5/9/24, 11:34 AM - +91 73288 57331: Yesss
+5/9/24, 11:35 AM - +91 93487 59266: From which institute
+5/9/24, 11:35 AM - +91 73288 57331: Jetking
+5/9/24, 11:35 AM - +91 93487 59266: Ok
+5/9/24, 11:35 AM - +91 93487 59266: I am also not from technical back ground
+5/9/24, 11:35 AM - +91 93487 59266: I had completed my BA
+5/9/24, 11:35 AM - +91 93487 59266: Then i am doing MCA
+5/9/24, 11:36 AM - +91 76848 79100: Hi everyone, I am subhashree panigrahi and I am from odisha . I have 2 yrs of experience in sales and marketing.
+5/9/24, 11:36 AM - +91 93487 59266: From what district
+5/9/24, 11:36 AM - +91 73288 57331: Supper
+5/9/24, 11:37 AM - +91 76848 79100: Sundargarh district
+5/9/24, 11:38 AM - +91 93487 59266: Educational qualification @917684879100
+5/9/24, 11:38 AM - +91 76848 79100: MBA in marketing
+5/9/24, 11:38 AM - +91 93487 59266: Suppeb
+5/9/24, 11:39 AM - +91 93487 59266: Ok friends bye see u later👋👋👋
+5/9/24, 11:39 AM - +91 73288 57331: Okay
+5/9/24, 11:39 AM - +91 73288 57331: Bye
+5/9/24, 12:39 PM - +91 78995 00809 joined using this group's invite link
+5/9/24, 1:40 PM - +91 99208 38811: Yeah, even someone asked me today in class if I'm from Odisha. I'm Satyaprakash from Bhadrak, Odisha.
+5/9/24, 1:41 PM - +91 93487 59266: Ya i am the guy
+5/9/24, 1:43 PM - +91 99208 38811: Yeah, you're the one. Where you from buddy?
+5/9/24, 1:43 PM - +91 93487 59266: I am from Jajpur
+5/9/24, 1:46 PM - +91 99208 38811: Awesome, we are neighbors 😜
+What do you do for a living??
+5/9/24, 1:49 PM - +91 93487 59266: I live with my parent’s money,I am a student of MCA now
+5/9/24, 3:12 PM - +91 99208 38811: Oh! Living the Dream!. Enjoy while it last.
+5/9/24, 3:24 PM - +91 97008 73385: Heyy Guys
+Peace be with you
+
+How many of u guys join yesterday Orientation Class??
+
+If any let me know pls
+5/9/24, 3:32 PM - +994 40 975 31 42: What can do tomorrow <This message was edited>
+5/9/24, 3:34 PM - +994 40 975 31 42: I don't understood
+5/9/24, 3:35 PM - +91 97008 73385: Well bro I'm asking about yesterday night 8pm orientation class?
+5/9/24, 3:36 PM - +994 40 975 31 42: Yesterday morning we have exam test
+5/9/24, 3:37 PM - +91 97008 73385: I think it's tomorrow morning right
+5/9/24, 3:38 PM - +994 40 975 31 42: Tomorrow morning we have exam test
+5/9/24, 3:38 PM - +994 40 975 31 42: Yes
+5/9/24, 3:38 PM - +91 97008 73385: So for that just practices what he taught through recording u receive in portal n be ready for exam
+5/9/24, 3:39 PM - +91 97008 73385: Let see what's going to happen?
+5/9/24, 3:39 PM - +994 40 975 31 42: Okk
+5/9/24, 3:41 PM - +994 40 975 31 42: I can't running killer code and kali linux in my lap, the virtual option not work
+5/9/24, 4:13 PM - +91 79762 75670: Try in browser
+5/9/24, 4:14 PM - +91 79762 75670: Only killer code is good for the laptop with less specs
+5/9/24, 4:17 PM - +91 99208 38811: Just refer that notebook that Deep has shared on google drive. Everything is there in that notebook.
+5/9/24, 4:17 PM - +91 99208 38811: questions will be theoritical
+5/9/24, 4:21 PM - +91 99208 38811: https://drive.google.com/file/d/1p_iVtHur3DVVZj5o60uDP4RFUdd48REy/view
+5/9/24, 4:28 PM - +994 40 975 31 42: Ok
+5/9/24, 5:49 PM - +91 97008 73385: Bro i just attended one class where I still don't know as I didn't try any practical
+5/10/24, 7:16 AM - +91 98537 84862: All the best for the test👍
+5/10/24, 7:17 AM - +91 93487 59266: Tq😊
+5/10/24, 7:47 AM - +91 98537 84862: 26 & 37 has issues I guess
+5/10/24, 7:48 AM - +91 93487 59266: Yes
+5/10/24, 7:48 AM - +91 97008 73385: Pls share answers if u can
+5/10/24, 7:48 AM - +91 93487 59266: And 47 also doubl options
+5/10/24, 7:49 AM - +91 93487 59266: There is no answer of 47
+5/10/24, 7:56 AM - +91 98537 84862: Yes
+5/10/24, 8:00 AM - +91 99208 38811: IMG-20240510-WA0000.jpg (file attached)
+5/10/24, 8:01 AM - +91 99208 38811: IMG-20240510-WA0001.jpg (file attached)
+5/10/24, 8:01 AM - +91 98537 84862: Can anyone help me with 46, 49 & 50 ?
+5/10/24, 8:01 AM - +91 99208 38811: IMG-20240510-WA0002.jpg (file attached)
+5/10/24, 8:02 AM - +91 99208 38811: IMG-20240510-WA0003.jpg (file attached)
+5/10/24, 8:02 AM - +91 93487 59266: Is there any problem in question no 5 <This message was edited>
+5/10/24, 8:02 AM - +91 99208 38811: Nope
+5/10/24, 8:03 AM - +91 93152 41971: Written types ques x directory one answer is PWD right ?
+5/10/24, 8:03 AM - +91 93487 59266: IMG-20240510-WA0004.jpg (file attached)
+5/10/24, 8:03 AM - +91 99208 38811: You have to type command
+5/10/24, 8:03 AM - +91 93487 59266: Just check and tell me <This message was edited>
+5/10/24, 8:03 AM - +91 99208 38811: Even I answered the same
+5/10/24, 8:04 AM - +91 93487 59266: Is it the right answer
+5/10/24, 8:04 AM - +91 93487 59266: Ls x
+5/10/24, 8:05 AM - +91 99208 38811: ls x and ls -r x both are correct
+5/10/24, 8:05 AM - +91 93487 59266: Ok
+5/10/24, 8:11 AM - +91 79762 75670: Recordings re view them
+5/10/24, 8:22 AM - +91 97008 73385: Same mistake sir
+5/10/24, 8:23 AM - +91 97008 73385: Arra same mistake
+5/10/24, 8:25 AM - +91 97008 73385: IMG-20240510-WA0005.jpg (file attached)
+Here is a Miracle
+5/10/24, 8:25 AM - +91 97008 73385: Same answer different options
+5/10/24, 8:26 AM - +91 93487 59266: Yes
+5/10/24, 8:27 AM - +91 97008 73385: IMG-20240510-WA0006.jpg (file attached)
+Jadu Where is 22 n 24 🤷🏻‍♂️
+5/10/24, 8:34 AM - +91 97008 73385: Nxt time sure bro today I m late for 30mins <This message was edited>
+5/10/24, 8:35 AM - Bhagavan: What is 46?
+5/10/24, 8:35 AM - +91 99208 38811: same same but diff😜
+5/10/24, 8:36 AM - +91 97008 73385: 754
+5/10/24, 8:37 AM - Bhagavan: What is the 46th Question?
+5/10/24, 8:37 AM - +91 97008 73385: Yeah but for them the correct answer was with (A) not with (D) 🤣
+5/10/24, 8:37 AM - +91 97008 73385: 46. If a file has permissions set as "rwxr-xr--", what is the numerical representation?
+5/10/24, 8:38 AM - +91 93487 59266: 754
+5/10/24, 8:38 AM - +91 93487 59266: Where are u lacking for understand this @919700873385
+5/10/24, 8:38 AM - +91 99208 38811: I feel like the question should be "rwxr-xr-r-"
+5/10/24, 8:39 AM - +91 97008 73385: No im not
+5/10/24, 8:39 AM - +91 97008 73385: This message was deleted
+5/10/24, 8:39 AM - +91 97008 73385: IMG-20240510-WA0008.jpg (file attached)
+5/10/24, 8:48 AM - Bhagavan: You deleted this message
+5/10/24, 8:54 AM - +91 70057 91429: ls x is not correct..I wrote it n it's wrong
+5/10/24, 9:03 AM - ~ Kiran Kumar added +91 99403 89227
+5/10/24, 9:20 AM - +91 97008 73385: Yeah same here
+5/10/24, 10:08 AM - +91 93487 59266: Guys can you make me admin so that i can add 3 more students
+5/10/24, 11:26 AM - +91 99208 38811: ur admin
+5/10/24, 11:26 AM - +91 93487 59266: Tq bro
+5/10/24, 11:27 AM - +91 99208 38811: I mean already ur admin
+5/10/24, 11:27 AM - +91 93487 59266: No i was not admin
+5/10/24, 11:27 AM - +91 93487 59266: No i am admin
+5/10/24, 11:27 AM - +91 93487 59266: IMG-20240510-WA0013.jpg (file attached)
+5/10/24, 12:48 PM - +91 95823 01910: Hello everyone, I am Rachana. I do not have any work experience and have a career break of 11 years because of my personal reasons. I had done BCA in graduation. Now if I want yo get a job as fresher with a descent package, what do you guys think, should I go for MBA in strategy and leadership or MBA in Business Analytics Along with this data science course.
+5/10/24, 12:52 PM - +91 93487 59266: You should go for MCA along with this data science course,I think it will good for you because you have already  a technical background. <This message was edited>
+5/10/24, 12:53 PM - +91 73288 57331: According to me without mca you can become the best data scientist in this time.
+5/10/24, 12:55 PM - +91 93487 59266: Not a big issue but MCA is like cherry on the top for her
+5/10/24, 12:56 PM - +91 93487 59266: Even i know people with BA degree with 5 year carrier gap they are doing job in IT sector with good package
+5/10/24, 12:58 PM - +91 95823 01910: If I don't want to go for very much technical field,  will MBA IN BA is good. Or because I am already getting BA certification from here so I should go for MBA in strategy and leadership in order to open up for more opportunities?
+5/10/24, 1:00 PM - +91 96678 66478: Is this class for data analytical
+5/10/24, 1:00 PM - +91 96678 66478: Or not
+5/10/24, 1:01 PM - +91 95823 01910: Yes
+5/10/24, 1:02 PM - +91 93487 59266: If you don’t want to go deep in technical field then the BA is good after then if you want to do masters then you can do from online basis from any university along with this data science course <This message was edited>
+5/10/24, 1:02 PM - +91 96678 66478: Reply me
+5/10/24, 1:03 PM - +91 93487 59266: It is for data science
+5/10/24, 1:07 PM - +91 95823 01910: Thanks a lot dipraj.
+5/10/24, 1:07 PM - +91 95823 01910: Thanks a lot 🙂
+5/10/24, 1:11 PM - +91 96678 66478: Ok
+5/10/24, 2:04 PM - +91 97008 73385: Heyy Rachana!! What if I help you out with this to fill the gap of 11years??!!
+5/10/24, 9:14 PM - +91 99208 38811: https://youtu.be/gVxYewiqSNE?si=ZB1Z_Ucu-RqQV1NR
+5/10/24, 10:00 PM - +91 99208 38811: @919582301910 Industry is running with very little to a handful skilled workers. There is market gap. You just need to leverage your skill to fill that gap. As long as you made your intention clear, nothing is impossible. It's better if you can connect with people who has already chosen similar career path and take their advise, but final decision should be yours.
+5/10/24, 10:01 PM - +91 95823 01910: Absolutely, I m glad to get all of your Guidance 🙂 Thanks
+5/10/24, 10:59 PM - +91 99208 38811: https://www.khanacademy.org/math/statistics-probability
+
+An interactive way to learn statistics. Do checkout imp topics.
+5/11/24, 7:16 AM - +91 95823 01910: I think all of us who are not from any technical background or prior experience in technical field, we should opt for these kinds if beginners statistics short term courses.
+5/11/24, 7:16 AM - +91 95823 01910: Thanks for this
+5/11/24, 10:37 AM - +91 97008 73385: Good idea
+5/12/24, 11:49 PM - +91 95353 22443 joined using this group's invite link
+5/13/24, 1:11 AM - +91 84849 40684: Do we have class tomorrow??
+5/13/24, 1:11 AM - +91 99208 38811: no
+5/13/24, 1:12 AM - +91 84849 40684: Okay thanks!!
+5/13/24, 1:19 AM - +91 97008 73385: Class r always schedule on this days  Tuesday to Friday  n timings from 7am to 9am
+5/13/24, 2:42 PM - +91 89202 67303: I not received any schedule for classes this week
+5/13/24, 2:43 PM - +91 93487 59266: You will receive before 8-9 PM
+5/13/24, 3:25 PM - +91 97008 73385: In e-mail
+5/13/24, 3:42 PM - +91 89202 67303: yes
+5/13/24, 5:18 PM - +91 93487 59266: IMG-20240513-WA0028.jpg (file attached)
+Tomorrow lecture
+5/13/24, 5:32 PM - +91 89202 67303: IMG-20240513-WA0029.jpg (file attached)
+I don't understand what is the problem coming while running the sql
+5/13/24, 5:37 PM - +91 93487 59266: You have to customise the tool
+5/13/24, 5:37 PM - +91 93487 59266: See vedio on you tube
+5/13/24, 5:38 PM - +91 76848 79100: Tomorrow they will give a brief about the installation and login process for SQL
+5/14/24, 7:19 AM - +91 89496 49521 joined using this group's invite link
+5/14/24, 7:19 AM - +91 98117 27061 joined using this group's invite link
+5/14/24, 7:21 AM - +91 91827 30692 joined using this group's invite link
+5/14/24, 7:21 AM - +91 99622 88615 joined using this group's invite link
+5/14/24, 7:22 AM - +91 63003 52116 joined using this group's invite link
+5/14/24, 7:22 AM - +44 7384 058350 joined using this group's invite link
+5/14/24, 7:33 AM - +91 93487 59266: SQL Server _ SSMS Installation.pdf (file attached)
+SQL Server _ SSMS Installation.pdf
+5/14/24, 7:30 AM - +91 83104 72821 joined using this group's invite link
+5/14/24, 7:32 AM - +91 94596 89021 joined using this group's invite link
+5/14/24, 7:33 AM - +91 98868 32789 joined using this group's invite link
+5/14/24, 7:34 AM - +91 97176 11607 joined using this group's invite link
+5/14/24, 7:41 AM - +91 97183 49041 joined using this group's invite link
+5/14/24, 7:41 AM - +91 97183 49041: Hi All
+5/14/24, 7:42 AM - +91 93487 59266: Hi
+5/14/24, 7:48 AM - +91 97397 59127 joined using this group's invite link
+5/14/24, 7:49 AM - +91 93806 38455 joined using this group's invite link
+5/14/24, 7:53 AM - +91 98863 94165 joined using this group's invite link
+5/14/24, 8:01 AM - +91 96328 88173 joined using this group's invite link
+5/14/24, 8:08 AM - +91 95823 01910: Hello This is a group for Data Analytics & Data Science & Business Analytics Course
+5/14/24, 8:10 AM - +91 99522 63645 joined using this group's invite link
+5/14/24, 8:10 AM - +91 70220 04861 joined using this group's invite link
+5/14/24, 8:10 AM - +91 78957 44460 joined using this group's invite link
+5/14/24, 8:10 AM - +91 99169 92410 joined using this group's invite link
+5/14/24, 8:11 AM - +91 87541 39431 joined using this group's invite link
+5/14/24, 8:15 AM - +1 (727) 776-9856 joined using this group's invite link
+5/14/24, 8:22 AM - +91 91136 61297 joined using this group's invite link
+5/14/24, 8:30 AM - +91 79725 80922 joined using this group's invite link
+5/14/24, 8:31 AM - +91 81493 39867 joined using this group's invite link
+5/14/24, 11:04 AM - 🇮🇳DSDrSheshadriSurgeon: Can anyone guide how  to remove user in linux
+5/14/24, 11:04 AM - +91 99208 38811: not sure but try
+sudo remove username
+5/14/24, 11:07 AM - +994 40 975 31 42: IMG-20240514-WA0022.jpg (file attached)
+I have some error, how can instal now
+5/14/24, 11:07 AM - +91 99208 38811: try below
+sudo userdel username
+sudo userdel -r username
+5/14/24, 11:08 AM - 🇮🇳DSDrSheshadriSurgeon: Got it now 👍
+5/14/24, 11:09 AM - +91 91827 30692: To click the trust server and then connect
+5/14/24, 11:12 AM - +994 40 975 31 42: Thanks macha
+5/14/24, 11:13 AM - +91 91827 30692: Okay machi
+5/14/24, 11:14 AM - +994 40 975 31 42: 😊
+5/14/24, 1:46 PM - +91 91136 61297: Hello guys 
+When did this course started as of mine today was my first session 
+I hope it was same for everyone
+5/14/24, 1:47 PM - +91 97397 59127: Same..
+5/14/24, 1:47 PM - +91 97397 59127: Data science right?
+5/14/24, 1:47 PM - +91 91136 61297: Yes
+5/14/24, 1:47 PM - +91 97397 59127: Okay
+5/14/24, 1:47 PM - +91 91136 61297: Thank you
+5/14/24, 1:47 PM - +91 91136 61297: Because first session was directly installation class
+5/14/24, 1:47 PM - +91 91136 61297: I thought it will be introduced and orientation
+5/14/24, 1:47 PM - +91 97397 59127: Yeahh
+5/14/24, 1:48 PM - +91 97397 59127: Let’s see tomm
+5/14/24, 1:48 PM - +91 91136 61297: Introduction
+5/14/24, 1:48 PM - +91 91136 61297: Yes
+5/14/24, 2:06 PM - +91 96328 88173: Why is this group name 7th May we all belong to 14th May batch ?
+5/14/24, 2:08 PM - Bhagavan: Few sessions completed from 7th May.
+
+Sessions about Linux Basic commands, very very basics
+5/14/24, 2:10 PM - +91 97183 49041: This class started from 7 may onwards
+5/14/24, 2:10 PM - +91 97183 49041: Linux part is already  completed
+5/14/24, 2:11 PM - +91 96328 88173: Ok. Looks like lot of folks including me started today only.
+5/14/24, 2:12 PM - +91 97176 11607: me too
+5/14/24, 2:13 PM - +91 97176 11607: joined today
+5/14/24, 2:19 PM - +91 94596 89021: Yup , that class we attended today , is it in continuation to something what is already in progress or it is from starting ?
+5/14/24, 2:19 PM - +91 96328 88173: I sent an email to support team. They replied saying orientation is already done last week and asking me to see recordings
+5/14/24, 2:20 PM - +91 96328 88173: There was no email or message about that last week
+5/14/24, 2:26 PM - +91 93487 59266: It is a continuing
+5/14/24, 2:26 PM - +91 93487 59266: Last week this course was started
+5/14/24, 2:26 PM - +91 94596 89021: So what have we missed ?
+5/14/24, 2:27 PM - +91 93487 59266: 1st section was about linux
+5/14/24, 2:27 PM - +91 94596 89021: That’s not right !
+5/14/24, 2:27 PM - +91 96328 88173: I agree
+5/14/24, 2:27 PM - +91 94596 89021: Can you give me the mail for support team .. ill mail them too
+5/14/24, 2:28 PM - +91 93487 59266: Yaa.so just mail the support team look what they will reply
+5/14/24, 2:28 PM - +91 96328 88173: support@intellipaat.com
+5/14/24, 2:29 PM - +91 96328 88173: Everyone who belongs to *14 MAY* batch and attended only today’s session.. Please reply YES to this msg <This message was edited>
+5/14/24, 2:29 PM - +91 97176 11607: yes
+5/14/24, 2:31 PM - +91 93487 59266: IMG-20240514-WA0025.jpg (file attached)
+Guys this was the last week section
+5/14/24, 2:32 PM - +91 96328 88173: Thank you
+5/14/24, 2:32 PM - +91 94596 89021: Yes
+5/14/24, 2:41 PM - +91 97397 59127: Yes
+5/14/24, 2:51 PM - +91 97397 59127: So where do we find recorded classes?
+5/14/24, 2:52 PM - +91 96328 88173: Let’s ask for live sessions. Drop an email to support@intellipaat.com
+5/14/24, 2:52 PM - +91 98863 94165: IMG-20240514-WA0028.jpg (file attached)
+5/14/24, 2:53 PM - +91 98863 94165: Go to my courses and click on online session MSQL weekday and then click on live classes <This message was edited>
+5/14/24, 2:53 PM - +91 96328 88173: We can see recordings if we MISS the classes. It’s their mistake that they haven’t included us.
+5/14/24, 2:54 PM - +91 98863 94165: IMG-20240514-WA0029.jpg (file attached)
+Here are last week’s recordings
+5/14/24, 2:54 PM - +91 98863 94165: It’s there for all
+5/14/24, 2:55 PM - +91 96328 88173: I’m talking about live sessions which we couldn’t attend. Not recordings
+5/14/24, 2:56 PM - +91 98863 94165: Oh that sorry I misunderstood
+5/14/24, 2:56 PM - +91 97397 59127: IMG-20240514-WA0030.jpg (file attached)
+5/14/24, 2:56 PM - +91 97397 59127: Not able to find tht option
+5/14/24, 2:57 PM - +91 96328 88173: No problem 😊
+5/14/24, 2:58 PM - +91 98863 94165: Try typing in the course name that is on the screen shot and search
+5/14/24, 2:58 PM - +91 97397 59127: Which app is this?
+5/14/24, 3:00 PM - +91 98863 94165: Intellipaat app
+5/14/24, 3:00 PM - +91 98863 94165: It’s there in the URL
+5/14/24, 3:01 PM - +91 97397 59127: Can u forward it here
+5/14/24, 3:01 PM - +91 98863 94165: IMG-20240514-WA0031.jpg (file attached)
+https://apps.apple.com/in/app/intellipaat/id1603820493
+5/14/24, 3:02 PM - +91 97397 59127: Thanks
+5/14/24, 3:02 PM - +91 98863 94165: You’re welcome
+5/14/24, 3:02 PM - +91 97397 59127: Through which to open in laptop
+5/14/24, 3:02 PM - +91 97397 59127: Bcoz im not getting any options of recording classes in that
+5/14/24, 3:03 PM - +91 98863 94165: I am at work I will try and connect with you in the evening
+5/14/24, 3:03 PM - +91 98863 94165: Maybe we can do a teams call
+5/14/24, 3:03 PM - +91 97397 59127: Okay sir thanks
+5/14/24, 3:03 PM - +91 97397 59127: Yeah fine
+5/14/24, 4:04 PM - +91 98537 84862: Dear all,
+
+Intellipaat starts new batches almost every week and they merge the learners as per their convenience and  progress of the batch. 
+
+
+Hence one batch was started last week (7th may) and another batch started today (14th May). 
+Going forward we will meet new learners again. 
+
+All syllabus will be covered for all the batches. That is Intellipaat's responsibility. 
+
+
+So do not merge whatsapp groups or no need to join all whatsapp groups. Keep the groups separated batch wise. It will help the learners coordinate among themselves.
+5/14/24, 4:06 PM - +91 98537 84862: @919582301910 pls don't post the whatsapp link in every sessions.  It will confuse  learners from other batches.
+5/14/24, 4:08 PM - +91 97008 73385: How u know that? R u a faculty member or team member of Intellipaat??
+5/14/24, 4:16 PM - +91 98537 84862: IMG-20240514-WA0032.jpg (file attached)
+https://intellipaat.com/epgc-data-science-ai-ihubds-iit-roorkee/
+
+Visit Intellipaat site. One more batch will start on 21st May (next week).
+5/14/24, 4:27 PM - +91 97008 73385: Oh ok bro
+5/14/24, 4:29 PM - +91 98537 84862: BDW your DP quote is nice - 
+"The quieter you become, the more you are able to hear."
+5/14/24, 4:40 PM - +91 99208 38811: anyone knows google colab like service with free tier account?
+5/14/24, 4:41 PM - +91 97008 73385: Inspired by Master of love/ love mastered him
+The Moulana Jalal uddin Rumi (peace be upon him). The poet, The master of love n divine.
+5/14/24, 4:41 PM - +91 97008 73385: What is it
+5/14/24, 4:41 PM - +91 97008 73385: This message was deleted
+5/14/24, 4:42 PM - +91 99208 38811: runs python code
+5/14/24, 4:42 PM - +91 97008 73385: Oh i dont know
+5/14/24, 5:56 PM - +91 91136 61297: Yes
+5/14/24, 6:03 PM - +91 91136 61297: Who is here in this batch from the beginning I mean from 7th
+5/15/24, 3:45 AM - +91 79762 75670: Some one share the link to join zoom meet  for morning session of 15 may
+5/15/24, 4:56 AM - Bhagavan: Same as 14th may
+5/15/24, 6:56 AM - Bhagavan: Dear Learner,
+
+
+
+Training Batch: MS SQL
+
+Trainer: Industry Expert
+
+
+
+Please find the below agenda to join the session:  
+
+
+1st Session:  SQL Installation & Basics with Intellipaat Team
+2nd Session: Session with Trainer
+
+3rd Session:  Session with Trainer
+
+4th Session:  Session with Trainer
+
+
+
+Please find the below link to join the session:   
+
+
+
+URL: https://us02web.zoom.us/webinar/register/WN_XHIpssydQOegm8Bp-eRWyg
+
+Access code: 899 8621 5652
+
+
+
+
+
+
+
+US Learner - 13th May - 16th May - Time - 8:30 PM CST.
+
+INDIAN Learner - 14th May - 17th May - Time - 7 AM IST (GMT +5:30).
+
+
+NOTE: Your link will remain the same until further notice.
+5/15/24, 9:01 AM - +91 81234 33626 joined using this group's invite link
+5/15/24, 9:01 AM - +91 70939 64349 joined using this group's invite link
+5/15/24, 9:02 AM - +91 90687 32243 joined using this group's invite link
+5/15/24, 9:02 AM - +91 95661 30451 joined using this group's invite link
+5/15/24, 9:02 AM - +91 94387 76400 joined using this group's invite link
+5/15/24, 9:03 AM - +91 78298 76662 joined using this group's invite link
+5/15/24, 9:05 AM - +91 79780 03826 joined using this group's invite link
+5/15/24, 9:08 AM - +91 85266 71398 joined using this group's invite link
+5/15/24, 9:24 AM - +91 83104 72821: Hi Guys, Good morning 
+
+Did he shared the PDF if so can anyone share the link here please
+5/15/24, 9:44 AM - +91 87541 39431: Yes pdf of the presentation if he has shared...kindly share it here
+5/15/24, 9:58 AM - +91 97397 59127: He will be sharing it tomorrow!!
+5/15/24, 5:47 PM - ~ sathish🪶 added +91 97443 73034
+5/16/24, 8:15 AM - Bhagavan: IMG-20240516-WA0002.jpg (file attached)
+5/16/24, 8:27 AM - +91 97008 73385: IMG-20240516-WA0005.jpg (file attached)
+5/16/24, 9:44 AM - +91 94596 89021: Hi Everyone, 
+Can anyone please share the links here , which were shared in the call . 
+Somehow was not able to copy them from chat window.
+5/16/24, 9:45 AM - +91 78957 44460: https://drive.google.com/drive/folders/1_tz8GFkRM8nPiVE0fBaHip04HIHoo2Lk
+5/16/24, 9:45 AM - +91 78957 44460: https://learn.microsoft.com/en-us/sql/t-sql/data-types/data-types-transact-sql?view=sql-server-ver16
+5/16/24, 9:46 AM - +91 94596 89021: Thank You !
+5/16/24, 9:46 AM - +91 97397 59127: Guys where cam i find the recored classes?
+5/16/24, 9:46 AM - +91 97397 59127: Can*
+5/16/24, 9:47 AM - DSDebanjanPhD: Intellipaat LMS portal
+5/16/24, 9:47 AM - +91 97397 59127: IMG-20240516-WA0006.jpg (file attached)
+There is no option here too
+5/16/24, 9:48 AM - +91 97397 59127: Can anyone help me with this!
+5/16/24, 9:51 AM - DSDebanjanPhD: Sure, bro
+5/16/24, 9:51 AM - +91 97397 59127: Yes bro where can i find it?
+5/16/24, 9:52 AM - DSDebanjanPhD: Under the my courses tab, please go to the course  with the name:
+Online Sessions - MS SQL Weekday BC = 2407051405
+5/16/24, 9:52 AM - +91 97397 59127: Wait let me check it
+5/16/24, 9:53 AM - DSDebanjanPhD: Then select LIVE CLASSES in the left panel
+5/16/24, 3:39 PM - +91 79762 75670: hello everyone, im looking to buy new laptop 
+
+it  has windows 11 home - OS
+did anyone uses windows 11 home faced any issues
+5/16/24, 3:40 PM - +91 79762 75670: This message was deleted
+5/16/24, 3:41 PM - +91 79762 75670: Anyone recommend best laptop for developers to run all our tools.
+
+specs :
+windows 11 home/pro
+I 5 processor
+16 gb ram
+512 gb / 1 tb ssd
+5/16/24, 9:34 PM - +91 95353 22443: Hi, can anyone share the Google drive link which was shared in today's class
+5/16/24, 9:54 PM - DSDebanjanPhD: https://drive.google.com/drive/folders/1L8VKDskffYBnixC4fIODATClEdwdSq7o?usp=drive_link
+5/16/24, 9:54 PM - Bhagavan: https://drive.google.com/drive/u/0/folders/1L8VKDskffYBnixC4fIODATClEdwdSq7o
+5/16/24, 9:55 PM - +91 97176 11607: did we have any assignments today
+5/16/24, 9:56 PM - Bhagavan: As of I remember there is nothing
+5/16/24, 9:56 PM - +91 97176 11607: okay thanks
+5/17/24, 8:06 AM - +91 99872 93148 joined using this group's invite link
+5/17/24, 8:06 AM - +91 73495 52947 joined using this group's invite link
+5/17/24, 8:06 AM - +91 90979 91760 joined using this group's invite link
+5/17/24, 8:08 AM - +91 98204 18414 joined using this group's invite link
+5/17/24, 8:09 AM - +91 89032 09082 joined using this group's invite link
+5/17/24, 9:04 AM - +91 98537 84862: I haven't attended today's class. Pls share the documents/ links here(if any)
+5/17/24, 9:22 AM - Bhagavan: Created a assignment to create tables
+https://drive.google.com/drive/u/0/folders/1L8VKDskffYBnixC4fIODATClEdwdSq7o
+5/17/24, 9:22 AM - Bhagavan: Same as old link
+5/17/24, 9:24 AM - 🇮🇳DSDrSheshadriSurgeon: Can some one past Google drive link here
+5/17/24, 9:24 AM - +91 87880 10157 joined using this group's invite link
+5/17/24, 9:24 AM - +91 90979 91760: This is the link
+5/17/24, 9:25 AM - 🇮🇳DSDrSheshadriSurgeon: 👍
+5/17/24, 9:33 AM - +91 91136 61297: Hello guys
+5/17/24, 9:33 AM - +91 91136 61297: I spoke to support team
+5/17/24, 9:33 AM - +91 91136 61297: Regarding our combined class with 7th may batch
+5/17/24, 9:34 AM - +91 91136 61297: They said no issues and all the topics will covered
+5/17/24, 9:35 AM - +91 89766 89425 joined using this group's invite link
+5/17/24, 9:35 AM - +91 91136 61297: I think it's better we have a group of our 14th may batch 
+So we can have a  connection 
+
+And can share notes if in case on an emergency we miss any class
+5/17/24, 9:36 AM - +91 91136 61297: Anyone from 14 may batch can acknowledge my message
+5/17/24, 9:40 AM - +91 97397 59127: I’m also from 14th may (data science) batch
+5/17/24, 9:46 AM - +91 91136 61297: What do you guys say shall I create a new group
+5/17/24, 9:46 AM - +91 91136 61297: I mean we will be in this group 
+Just for our notes sharing purpose which is Specified for our batch only
+5/17/24, 9:46 AM - +91 91136 61297: We'll have our own group that's it
+5/17/24, 10:02 AM - +91 97008 73385: N idea that' helps
+5/17/24, 10:07 AM - +91 91136 61297: Follow this link to join my WhatsApp group: https://chat.whatsapp.com/KkKAgiPZQ8S5SvBm4dsL1M
+5/17/24, 10:08 AM - +91 91136 61297: Please join
+5/17/24, 10:08 AM - ~ Shubhranshu pinned a message
+5/17/24, 12:33 PM - +91 72057 52124: Hi,,which folder we should check for assignment or related to our task..can you pls share
+5/17/24, 12:39 PM - Bhagavan: He is used the file "Demo 3 16-05-2024.sql"
+In that file, find the assignment section with title "QUESTION TO PRACTICE" which goes to to end of the file <This message was edited>
+5/17/24, 2:14 PM - +91 72057 52124: Got it...you mean to say "question to practice"..that one we have to do?
+5/17/24, 5:52 PM - +91 83104 72821: Hi Guys, Good Evening 
+
+Do we have class tomorrow??
+5/17/24, 5:54 PM - DSDebanjanPhD: No Vandana, we do not have a class tomorrow. The next SQL class will take place on next Tuesday 7am-9am.
+5/17/24, 7:02 PM - +91 70057 91429: IMG-20240517-WA0023.jpg (file attached)
+Assignment
+5/17/24, 7:02 PM - +91 70057 91429: IMG-20240517-WA0024.jpg (file attached)
+5/17/24, 7:04 PM - +91 70057 91429: IMG-20240517-WA0025.jpg (file attached)
+And I think these also Sir told us to look up on Google or ..
+5/17/24, 7:05 PM - +91 70057 91429: If any of you guys have any material on this please share here
+5/17/24, 7:09 PM - DSDebanjanPhD: https://learn.microsoft.com/en-us/sql/t-sql/xml/xml-transact-sql?view=sql-server-ver16
+5/17/24, 7:27 PM - +91 83104 72821: Thank you @919836950724
+5/17/24, 8:03 PM - DSDebanjanPhD: IMG-20240517-WA0027.jpg (file attached)
+In the case of fractional seconds precision in the datetime2 datatype, the sql server was throwing an error message during the class. That was because we had used a colon ':' as a separator between seconds and fractional seconds (upto seven digits: 100 ns precision). It turns out the proper delimiter in that place should be a period '.' and I have tried it out. It provided proper output in that case.
+5/17/24, 8:06 PM - +91 90979 91760: But decimal point is not right format?
+5/17/24, 8:09 PM - DSDebanjanPhD: We must use a decimal point (i.e., a period) instead of a colon between seconds and fractional seconds.
+The format is the following (in the data type datetime2):
+'YYYY-MM-DD hh:mm:ss.fffffff'
+5/17/24, 8:12 PM - +91 90979 91760: Okay
+5/18/24, 10:34 AM - DSDebanjanPhD: Someone was asking in the class yesterday how to ensure a column (field) does not accept null values when we create a table. We have to use a constraint called NOT NULL for that purpose. You can have a look at the tutorial by w3schools by clicking on the following link:
+https://www.w3schools.com/sql/sql_notnull.asp
+5/21/24, 7:13 AM - +91 81234 33626: Hi
+5/21/24, 7:13 AM - +91 81234 33626: Did we have class yesterday?
+5/21/24, 7:13 AM - +91 93487 59266: Noo
+5/21/24, 7:14 AM - +91 81234 33626: Can anyone send me the assignment that was given to us?
+5/21/24, 7:14 AM - +91 93487 59266: ..
+5/21/24, 7:14 AM - +91 93487 59266: …
+5/21/24, 7:14 AM - +91 81234 33626: Thank you
+5/21/24, 8:13 AM - 🇮🇳DSDrSheshadriSurgeon: Can some one post drive link here pl
+5/21/24, 8:13 AM - +91 79762 75670: https://drive.google.com/drive/folders/1L8VKDskffYBnixC4fIODATClEdwdSq7o?usp=drive_link
+5/21/24, 8:14 AM - +91 81234 33626: Guys demo 3 file has the questions and demo 4 file has the solutions right?
+5/21/24, 8:17 AM - +91 96328 88173: yes
+5/21/24, 8:17 AM - +91 96328 88173: to show line numbers in your query window :
+"Tools" ->  "Options"  ->  "Text Editor" -> "Transact-SQL" -> "General" -> "Line numbers"  checkbox
+5/21/24, 8:20 AM - +91 99872 93148: What do we do now? Do we have another assignment
+5/21/24, 8:20 AM - +91 99872 93148: Other than school and hospital?
+5/21/24, 8:22 AM - +91 89766 89425: Hello guys  can anyone let me know the path from where we can see recorded sessions?
+5/21/24, 8:23 AM - +91 95792 15739: Anyone can send assignment solution  pdf
+5/21/24, 8:25 AM - +91 91827 30692: Demo 4 20-05-2024.sql (file attached)
+5/21/24, 8:27 AM - +91 81234 33626: Thanks
+5/21/24, 8:27 AM - +91 95792 15739: Thank you
+5/21/24, 8:28 AM - +91 81234 33626: The assignment is to just create the tables?
+5/21/24, 8:28 AM - +91 81234 33626: Do we have to do more than that?
+5/21/24, 8:28 AM - +91 81234 33626: I'm not getting clarity
+5/21/24, 8:28 AM - +91 93487 59266: Noo
+5/21/24, 8:28 AM - +91 81234 33626: Then.
+5/21/24, 8:28 AM - +91 81234 33626: ?
+5/21/24, 8:30 AM - +91 96328 88173: Practise DML statements (insert, update, delete) in different ways  (with where clause and without clause)
+5/21/24, 8:30 AM - +91 96328 88173: also with different datatypes, play with date datatype fields etc
+5/21/24, 8:35 AM - DSDebanjanPhD: lms.intellipaat.com
+5/21/24, 8:36 AM - DSDebanjanPhD: Visit this site (preferably using an incognito window for a seamless experience) and login with your credentials.
+5/21/24, 8:38 AM - +91 96678 66478: Did anyone create the table plz show me atleast once
+5/21/24, 8:39 AM - +91 96678 66478: How u did it then it make me clear
+5/21/24, 8:40 AM - DSDebanjanPhD: Under the 'My Courses' tab look for the course named 'Online Sessions - MS SQL Weekday BC = 2407051405'.
+I hope this helps. 😊
+5/21/24, 8:42 AM - DSDebanjanPhD: What is the specific problem that you are facing while creating a table? Please let me know. I am here to help.
+5/21/24, 8:44 AM - +91 95792 15739: can anyone let me know the path of how to create a table in sql
+5/21/24, 8:44 AM - DSDebanjanPhD: Hi Nupur
+5/21/24, 8:44 AM - +91 95792 15739: Because a type syntax but there error issue
+5/21/24, 8:45 AM - DSDebanjanPhD: Could you please post the error message here?
+5/21/24, 8:46 AM - +91 89766 89425: I am looking in website and not getting this course online session.
+5/21/24, 8:46 AM - +91 95792 15739: IMG-20240521-WA0001.jpg (file attached)
+5/21/24, 8:47 AM - DSDebanjanPhD: OK, how many columns are present in the employee table that you have created? Kindly mention the names of the columns and the respective data types as well.
+5/21/24, 8:47 AM - +91 96328 88173: Show the statement you executed
+5/21/24, 8:48 AM - DSDebanjanPhD: Yes, kindly share a screenshot of the create table statement
+5/21/24, 8:49 AM - +91 95792 15739: Wait
+5/21/24, 8:49 AM - DSDebanjanPhD: Yes, Nupur. Please take your time.
+5/21/24, 8:51 AM - DSDebanjanPhD: Rahul, please look for the option 'LIVE CLASSES' on the left panel (second option).
+5/21/24, 8:52 AM - DSDebanjanPhD: Just below the 'SELF-PACED' option.
+5/21/24, 9:06 AM - +91 89766 89425: Thanks @919836950724
+5/21/24, 9:07 AM - DSDebanjanPhD: You are welcome.
+5/21/24, 9:08 AM - +91 89766 89425: That tab is not available so will send mail to them.
+5/21/24, 9:09 AM - DSDebanjanPhD: Yes, please send a mail to the Intellipaat support team mentioning it. 
+support@intellipaat.com
+5/21/24, 1:06 PM - +91 88612 78145 joined using this group's invite link
+5/21/24, 4:36 PM - 🇮🇳DSDrSheshadriSurgeon: What is the syntax to see the table created
+5/21/24, 4:40 PM - 🇮🇳DSDrSheshadriSurgeon: I mean how do u see results? Plz guide
+5/21/24, 4:41 PM - 🇮🇳DSDrSheshadriSurgeon: IMG-20240521-WA0005.jpg (file attached)
+5/21/24, 4:42 PM - +91 70939 64349: select  *  from dep
+5/21/24, 4:42 PM - +91 70939 64349: execute
+5/21/24, 4:55 PM - 🇮🇳DSDrSheshadriSurgeon: Ok. Tnq
+5/21/24, 4:59 PM - DSDebanjanPhD: Hi, select statement in the SQL Server prints (displays) the results of the query.
+The syntax of the query is the following:
+
+Select column_1, column_2, ...
+from table_name
+
+If you wish to display all the fields (records) of the table, then you can use an asterisk (*) instead of the column name(s).
+So the syntax for that would look like just what @917093964349 has stated earlier:
+
+Select * table_name
+
+I can see that the name of the table created (table_name) is dep.
+
+So, the command using the select statement will be:
+
+Select * from dep
+
+In addition to that, you can use different clauses or filters to retrieve specific records (rows). For example, let me mention the where clause. The following syntax shows that case:
+
+Select column_1, column_2,...
+From table_name
+Where condition(s)
+
+There can be other clauses such as order by, group by, etc.
+
+Just one more thing to mention, you can use an aggregate functions such as count, sum, avg, max, min, etc. along with the select statement.
+5/21/24, 5:02 PM - +91 70939 64349: did sir completed about count, sum, avg, max, min? I don't know !
+5/21/24, 5:02 PM - +91 63003 52116: No
+5/21/24, 5:03 PM - DSDebanjanPhD: Not yet, I just mentioned those aggregate functions because those can be used with select statements.
+5/21/24, 5:03 PM - +91 70939 64349: ok
+5/21/24, 5:04 PM - 🇮🇳DSDrSheshadriSurgeon: IMG-20240521-WA0006.jpg (file attached)
+5/21/24, 5:04 PM - 🇮🇳DSDrSheshadriSurgeon: I am getting this error
+5/21/24, 5:04 PM - 🇮🇳DSDrSheshadriSurgeon: Any mistake in syntax
+5/21/24, 5:06 PM - +91 82481 11822: Use Demo
+5/21/24, 5:06 PM - +91 82481 11822: and then execute your query
+5/21/24, 5:07 PM - 🇮🇳DSDrSheshadriSurgeon: Am using demo only
+5/21/24, 5:07 PM - Bhagavan: Create database
+"create database school"
+5/21/24, 5:07 PM - DSDebanjanPhD: You can use the school database. At first, execute the create database school command.
+5/21/24, 5:08 PM - +91 82481 11822: This is correct  after this type USE SCHOOL - comment
+5/21/24, 5:08 PM - 🇮🇳DSDrSheshadriSurgeon: Got it. Tnq
+5/21/24, 5:09 PM - 🇮🇳DSDrSheshadriSurgeon: So from master we cannot create new databases ??
+5/21/24, 5:09 PM - 🇮🇳DSDrSheshadriSurgeon: I guess we can
+5/21/24, 5:09 PM - DSDebanjanPhD: True. Once you create a database, you have to connect to it using the USE database_name statement. <This message was edited>
+5/21/24, 5:12 PM - DSDebanjanPhD: Did you mean tables? The master is itself a database. Of course, we can create tables inside the master database. I have successfully tried to do so.
+However, I do not understand how one can create  databases inside another database (master). <This message was edited>
+5/21/24, 5:14 PM - 🇮🇳DSDrSheshadriSurgeon: No apart from master how do we create new database
+5/21/24, 5:14 PM - 🇮🇳DSDrSheshadriSurgeon: Like we created demo by using create database demo isn't it
+5/21/24, 5:15 PM - DSDebanjanPhD: Yes
+5/21/24, 5:15 PM - 🇮🇳DSDrSheshadriSurgeon: Inside database u can create schemas, not new database I guess
+5/21/24, 5:15 PM - DSDebanjanPhD: Yeah, that's correct
+5/21/24, 5:16 PM - DSDebanjanPhD: We can create a new database using the following syntax:
+
+create database database_name
+5/21/24, 5:16 PM - 🇮🇳DSDrSheshadriSurgeon: Line 26 near date I am getting error
+5/21/24, 5:17 PM - 🇮🇳DSDrSheshadriSurgeon: Got it. Typo error
+5/21/24, 5:18 PM - 🇮🇳DSDrSheshadriSurgeon: IMG-20240521-WA0007.jpg (file attached)
+5/21/24, 5:19 PM - DSDebanjanPhD: If you decide to name your database using multiple words, enclose the database name using square brackets, e.g. [My Demo].
+5/21/24, 5:20 PM - DSDebanjanPhD: Please put a closing parenthesis ')' after date
+5/21/24, 5:21 PM - 🇮🇳DSDrSheshadriSurgeon: Ok. Got it. Tnq
+5/21/24, 5:24 PM - 🇮🇳DSDrSheshadriSurgeon: This message was deleted
+5/21/24, 5:24 PM - 🇮🇳DSDrSheshadriSurgeon: This message was deleted
+5/21/24, 5:25 PM - 🇮🇳DSDrSheshadriSurgeon: I got it
+5/21/24, 5:26 PM - +91 70939 64349: where?
+5/21/24, 5:26 PM - +91 70939 64349: i too have that doubt
+5/21/24, 5:27 PM - 🇮🇳DSDrSheshadriSurgeon: I created under school and got it under expansion
+5/21/24, 5:27 PM - +91 70939 64349: ok tq
+5/21/24, 5:28 PM - 🇮🇳DSDrSheshadriSurgeon: IMG-20240521-WA0009.jpg (file attached)
+5/21/24, 5:28 PM - DSDebanjanPhD: Remember to refresh the object explorer
+5/21/24, 5:30 PM - 🇮🇳DSDrSheshadriSurgeon: Yes 👍
+5/21/24, 6:03 PM - 🇮🇳DSDrSheshadriSurgeon: Under table nurses I created column nursesID.
+But now I want to change column name to NursesID
+How do I do that
+5/21/24, 6:03 PM - 🇮🇳DSDrSheshadriSurgeon: IMG-20240521-WA0010.jpg (file attached)
+5/21/24, 6:23 PM - DSDebanjanPhD: Try the following command:
+
+EXEC sp_rename 'Nurses.nursesID', 'NursesID', 'COLUMN'
+5/21/24, 6:25 PM - 🇮🇳DSDrSheshadriSurgeon: Can we not use alter command
+5/21/24, 6:26 PM - 🇮🇳DSDrSheshadriSurgeon: Alter table nurses
+Alter column NursesID int
+5/21/24, 6:26 PM - 🇮🇳DSDrSheshadriSurgeon: It should do the sane work isn't it
+5/21/24, 6:26 PM - 🇮🇳DSDrSheshadriSurgeon: But it's not changing
+5/21/24, 6:26 PM - DSDebanjanPhD: I tried to use the ALTER statement earlier. It was throwing an error.
+5/21/24, 6:26 PM - 🇮🇳DSDrSheshadriSurgeon: Tom we will ask balgeet
+5/21/24, 6:27 PM - 🇮🇳DSDrSheshadriSurgeon: I tried dropping column nursesID 
+But it's also not working
+5/21/24, 6:27 PM - DSDebanjanPhD: The ALTER statement to change the column name using this syntax works in MySQL.
+5/21/24, 6:28 PM - 🇮🇳DSDrSheshadriSurgeon: Ok
+5/21/24, 6:28 PM - DSDebanjanPhD: What is the syntax that you used to delete the nursesID column?
+5/21/24, 6:31 PM - 🇮🇳DSDrSheshadriSurgeon: Drop column nursesID
+5/21/24, 6:31 PM - +91 96328 88173: That topic is yet to taught. Wait until he teaches.
+5/21/24, 6:31 PM - +91 96328 88173: How ? Table name not mentioned
+5/21/24, 6:31 PM - +91 96328 88173: Can do with alter statement <This message was edited>
+5/21/24, 6:37 PM - +91 99872 93148: Where was I when Baljeet was teaching this?
+5/21/24, 6:37 PM - +91 99872 93148: Don’t even remember anything like this
+5/21/24, 6:38 PM - DSDebanjanPhD: Kindly use the following syntax:
+
+alter table dbo.Nurses
+drop column nursesID
+
+This should delete the nursesID column from the Nurses Table after you hit execute (F5).
+5/21/24, 6:39 PM - DSDebanjanPhD: Sir hasn't taught us the command so far.
+5/21/24, 6:39 PM - +91 99872 93148: How do you know then
+5/21/24, 6:40 PM - +91 99872 93148: ?
+5/21/24, 6:41 PM - DSDebanjanPhD: As there was a question raised as to renaming a column of a table, I mentioned this syntax.
+5/21/24, 6:42 PM - DSDebanjanPhD: Actually I attended a few classes of SQL in an earlier batch. After I faced some issue there, I asked the support team to transfer me to a new batch.
+5/21/24, 6:47 PM - DSDebanjanPhD: IMG-20240521-WA0011.jpg (file attached)
+Here I changed the table_name from 'employeee' to 'employee' using sp_rename. Along with that in a separate command, renamed a column of the table from 'empsalary' to 'emp_salary'.
+5/21/24, 6:48 PM - DSDebanjanPhD: Hope this helps.
+5/21/24, 6:48 PM - 🇮🇳DSDrSheshadriSurgeon: He has already taught alter drop
+5/21/24, 6:50 PM - +91 96328 88173: I know answers of most questions but not answering as the trainer has not taught yet. It would cause confusion
+5/21/24, 6:51 PM - 🇮🇳DSDrSheshadriSurgeon: U r most welcome to guide us in whatever is taught. 🙏
+5/21/24, 6:52 PM - 🇮🇳DSDrSheshadriSurgeon: 👍
+5/21/24, 6:56 PM - DSDebanjanPhD: If you guys are getting confused by the answers provided by me on the topics that have not been covered so far, then I would refrain from posting answers in the group any further. My intention was to help, not to create any sort of confusion. Sorry about that!
+5/21/24, 6:59 PM - +91 96328 88173: Not like that 😊 Very new learners may get confused
+5/21/24, 7:00 PM - DSDebanjanPhD: I understand @919632888173. Thanks for pointing that out.
+5/21/24, 7:17 PM - +91 70939 64349: no, its helpful as i'm from non IT background your explanation is very clear to understand
+5/21/24, 8:21 PM - DSDebanjanPhD: So am I (from a non IT/ non CS) background. Thanks for your kind words, @917093964349. 😊
+5/22/24, 12:39 AM - DSDebanjanPhD: Hi guys,
+I would like to provide some clarification on the command that we used to change a column_name of a particular table. As discussed earlier, the respective syntax is the following:
+
+EXEC sp_rename 'dbo.Table_name.Old_column_name', 'New_column_name', 'COLUMN'
+
+Here, sp_rename is a particular stored procedure that is used to rename a column or a table. In sp_rename sp stands for stored procedure. A stored procedure is a saved block of code prepared beforehand with a specific functionality which can be used time and again when ever required. There are a lot of other stored procedures available, e.g., sp_help. In fact, one can create stored procedures on their own as well.
+EXEC is the execute statement that is used to execute a stored procedure just like SELECT statement is used to display the contents of a table. Ine needs to specify the table name along with the old column name within quotes, the new column name, and the word COLUMN (all the three within quotes as shown in the syntax). The word column is necessary to specify so that the SQL Server can understand a particular column needs to be renamed.
+In the case of renaming a table, one doesn't need to type the word 'COLUMN'. For that, the following syntax holds:
+
+EXEC sp_rename 'dbo.Old_table_name', 'New_table_name'
+
+The above syntax, I suppose, is self-explanatory.
+
+And regarding dbo, let me just mention that it is a predefined schema in the SQL Server. Another example of predefined schema is sys. One can create their own schema as well, although it might not be always recommended as not to mess with the existing schemas.
+
+I hope this clarifies some doubts that you may have had.
+5/22/24, 9:21 AM - 🇮🇳DSDrSheshadriSurgeon: Any compulsary assignments we hv got from tellipaat ( not from balgeet)
+5/22/24, 12:06 PM - +91 94596 89021: Hello Everyone
+5/22/24, 12:08 PM - +91 94596 89021: Any idea , why we are using MSSQL for this course not any other sql  like postgresql or mysql etc ?
+5/22/24, 12:21 PM - +91 99208 38811: if we have used MySQL the question will be why not mssql….the objective is to familiar with sql...
+5/22/24, 12:24 PM - +91 94596 89021: Yup … any other sql servers would have been easy to set up in both kind of machines be it  mac or windows . 
+That’s why I asked if there was specific reason!
+5/22/24, 12:25 PM - +91 89766 89425: The concepts and syntax are same we can consider either of it..
+5/22/24, 12:28 PM - +91 72057 52124: Hi All,is there anyone from "PGP in Data Science and Machine Learning" course?
+5/22/24, 12:34 PM - +91 72057 52124: Wanted to check anyone able to see our course syllabus...if anyone able to see..please share
+5/22/24, 12:45 PM - +91 91136 61297: Because Ms SQL is most commonly used sql
+5/22/24, 12:46 PM - +91 70939 64349: IMG-20240522-WA0012.jpg (file attached)
+5/22/24, 1:18 PM - +91 96678 66478: And data analytical course
+5/22/24, 1:18 PM - +91 96678 66478: Program offer is ?
+5/22/24, 1:37 PM - +91 91136 61297: IMG-20240522-WA0013.jpg (file attached)
+5/22/24, 3:10 PM - +91 99208 38811: good point....most likely we will be using powerbi in future....since both are coming under ms umbrella...might be that's why mssql….cuz it will be easy to integrate...
+5/22/24, 3:23 PM - +91 72057 52124: Can you please share the path where I can check or its common for all course?
+5/22/24, 3:33 PM - +91 70939 64349: No it differs for every course
+5/22/24, 3:33 PM - +91 70939 64349: It's there in intellipaat website
+5/22/24, 4:47 PM - +91 96678 66478: If here anyone who is related to data analytical student
+5/22/24, 4:52 PM - DSDebanjanPhD: Actually, I have enrolled in the Doctor of Business Administration (Online-DBA) course offered by SSBM, Geneva in collaboration with Intellipaat. As a complementary course, Intellipaat has also provided me with the course named IIT Roorkee iHUB Divyasampark advanced certification course in Data Analytics. Having said that, I don't prefer to confine myself to a single academic discipline as I come from an interdisciplinary background. <This message was edited>
+5/22/24, 5:01 PM - +91 70939 64349: yes i'm
+5/22/24, 5:01 PM - +91 70939 64349: but nothing said in college
+5/22/24, 5:10 PM - +91 95823 01910: How's your experience of Online DBA?
+5/22/24, 5:18 PM - DSDebanjanPhD: Hi Rachana,
+I have received the login credentials of the SSBM portal just about a week ago. I am yet to be assigned a mentor from SSBM, Geneva. So, I have just started my online DBA journey. As you can see, it is too early to comment anything on the same.
+
+I am also a Senior Research Fellow (pursuing a full-time Ph.D.) in Theoretical Physics at Bose Institute, Kolkata. My area of interest is Quantum Information Processing Theory (Quantum Nonlocality - LOCC framework).
+5/22/24, 5:20 PM - +91 95823 01910: Yes I agree, will stay in touch to know more about your experience.
+5/22/24, 5:57 PM - +91 88841 64664: Me too
+5/22/24, 11:44 PM - +91 87541 39431: Hi...i could not attend todays class as i was traveling and i just finished watching the recording.....i had a doubt.....from where do i import the file??....like there has to be a file in my desktop right???....where do i get that file??🙄
+5/22/24, 11:48 PM - +91 87541 39431: is it empdetail.txt??
+5/22/24, 11:48 PM - +91 99872 93148: Yes, in the drive
+5/22/24, 11:49 PM - +91 87541 39431: ok found it!....thanks :)
+5/23/24, 9:05 PM - +91 87541 39431: IMG-20240523-WA0017.jpg (file attached)
+Can someone tell me why my empid column is not arranged in ascending order??....its showing smaller numbers in between
+5/23/24, 9:14 PM - +91 87541 39431: Someone pls help🙄
+5/23/24, 9:17 PM - +91 96328 88173: What is the data type of that field ?
+5/23/24, 9:17 PM - +91 96328 88173: Int or varchar ?
+5/23/24, 9:17 PM - DSDebanjanPhD: Could you please share a snap of your entire laptop screen? Preferably a screenshot.
+5/23/24, 9:17 PM - +91 96328 88173: Must be varchar type. So sorting as a string ..
+5/23/24, 9:18 PM - +91 96328 88173: Sorting character by character.. after “10”.. “11” series will come if sorting on character basis
+5/23/24, 9:19 PM - +91 96328 88173: Change the data type to int
+5/23/24, 9:22 PM - +91 87541 39431: Oooooo....yes its varchar....😬😬
+5/23/24, 9:22 PM - +91 87541 39431: Yes now its coming....thanks a lot🙏🏻
+5/24/24, 6:57 AM - +91 93152 41971: Guys I was not there in yesterday's class.
+5/24/24, 6:57 AM - +91 93152 41971: Don't we have any class today ?
+5/24/24, 7:01 AM - +91 96328 88173: We have class today
+5/24/24, 7:02 AM - +91 98204 18414: Yes
+5/24/24, 7:03 AM - +91 93152 41971: This message was deleted
+5/24/24, 3:43 PM - DSDebanjanPhD: IMG-20240524-WA0010.jpg (file attached)
+In the class today, someone asked how to calculate the age if one is provided with the date of birth (in other words, how to take the difference between two dates). We can use the DATEDIFF( ) function to accomplish that task. Here is an example:
+5/24/24, 3:44 PM - DSDebanjanPhD: https://learn.microsoft.com/en-us/sql/t-sql/functions/datediff-transact-sql?view=sql-server-ver16
+5/24/24, 3:45 PM - +91 99872 93148: Thanks a ton buddy,
+5/24/24, 3:48 PM - 🇮🇳DSDrSheshadriSurgeon: Does any one hv list of syntaxes used till date in note / doc file. It's easy to have those lists to revise. In previous linux classes the trainer had given such list in notepad. It was very easy to recollect or remember.
+5/24/24, 3:49 PM - +91 94387 76400: Yup may nyone plz share
+5/24/24, 3:59 PM - +91 96328 88173: In real time enterprise projects, we don't store "age" data in the tables as it has to be updated on daily or monthly basis. We always store "date of birth" field and calculate age from it.
+5/24/24, 3:59 PM - +91 96328 88173: those fields are called base field (date of birth) and derived fields (age as it derived from another field)
+5/24/24, 4:10 PM - +91 96328 88173: *Quick puzzle if anyone wants to answer/think* - What if the table has millions of records? Age calculation from date of birth would take lot of time. How to solve such problems?
+5/24/24, 4:15 PM - +91 78298 76662: This can be done by adding a index to the date of birth field. Hope that works.. 😊
+5/24/24, 4:16 PM - +91 96328 88173: Indexing is useful when we do search on that field as the trainer today morning. We are talking about calculations :)
+5/24/24, 4:28 PM - +91 78298 76662: Okai... If you are talking about age, dob and million of records. I would design my tables such a way that my age and dob calculation will be done in one table and may just have a foreign key relationship with the main table which has millions of record. So calculation will be very limited at any point of time.. 🤔
+5/24/24, 4:30 PM - +91 96328 88173: Good thought. However, it would not reduce the number of calculations. If I have 1 million records in main table, same 1 million age calculations would be done on your secondary table also. 
+On top of that it would add complexity in joining the main table and secondary table
+5/24/24, 4:32 PM - +91 78298 76662: I guess Trigger on insert could be one more option ?
+5/24/24, 4:33 PM - +91 96328 88173: that also has to do same age calculation. it would make it slower, not faster
+5/24/24, 4:35 PM - +91 78298 76662: Okai let me read the question again...
+5/24/24, 4:38 PM - +91 96328 88173: I know this is not easy for beginners as the trainer has not taught that topic yet. I am just trying to expand your creative memory to fetch some ideas
+5/24/24, 4:42 PM - DSDebanjanPhD: Group the people together who have been born on spans of one year - dividing the timeline into bins of one year width. By doing that, we will be reducing the number of calculations as there are multiple people in one bin (container).
+5/24/24, 4:44 PM - +91 96328 88173: good thought. age is normally calculated at day level especially for banking and government related applications
+5/24/24, 4:49 PM - +91 96328 88173: No one else wants to give a try? Shall I tell you the answer or you want to wait until the trainer tells you next week?
+5/24/24, 4:50 PM - DSDebanjanPhD: Please wait. I have an idea.
+5/24/24, 5:01 PM - DSDebanjanPhD: Cast the field with datetime datatype to float and divide by 365.0
+5/24/24, 5:05 PM - +91 96328 88173: Good idea. How will that make calculation faster? Because datediff function also does the same thing
+5/24/24, 5:26 PM - DSDebanjanPhD: Can we use a loop for this purpose along with conditional statements (if… else...)?
+5/24/24, 5:27 PM - +91 96328 88173: Pls explain how that will reduce the computational time
+5/24/24, 5:28 PM - +91 96328 88173: *Hint:* - the solution is related to the topic discussed today morning
+5/24/24, 5:30 PM - DSDebanjanPhD: Check?
+5/24/24, 5:38 PM - +91 96328 88173: Nope
+5/24/24, 5:45 PM - +91 78298 76662: Default constraint?
+5/24/24, 6:01 PM - +91 96328 88173: Nope
+5/24/24, 6:01 PM - +91 96328 88173: One more hint : related to indexes
+5/24/24, 6:08 PM - +91 99208 38811: *Question*: I have a table a table Employee. I want to add identity constraint to empid column of int datatype. How can I achieve it?
+5/24/24, 6:09 PM - DSDebanjanPhD: Your question is in queue. 😅
+5/24/24, 6:10 PM - +91 99208 38811: that was a quiz. it's query. I hope it should have same priority :p
+5/24/24, 6:10 PM - +91 96328 88173: Alter table employee add empid int  identity
+5/24/24, 6:12 PM - +91 99208 38811: IMG-20240524-WA0013.jpg (file attached)
+I tried this but not working
+5/24/24, 6:13 PM - +91 96328 88173: Means you already have empid column added
+5/24/24, 6:14 PM - +91 99208 38811: yes, I want to update that column with identity constraint
+5/24/24, 6:16 PM - +91 96328 88173: There is no straight way to do this. You have to drop column and add again with identity
+5/24/24, 6:24 PM - +91 78298 76662: But I already mentioned Indexing at my first throw .. 😟
+5/24/24, 6:26 PM - 🇮🇳DSDrSheshadriSurgeon: Indexing and non indexing can some one explain in simpler words
+5/24/24, 6:26 PM - 🇮🇳DSDrSheshadriSurgeon: Indexing I understood. Nonindexing was the issue
+5/24/24, 9:32 PM - +91 99208 38811: yeah seems like...thank you
+5/25/24, 9:54 PM - +91 95823 01910: Hello everyone, do you guys know whether we need to do the SQL assignments that is present on our dashboard under assignment submissions?
+5/25/24, 9:56 PM - DSDebanjanPhD: Yes, ma'am. We have to finish the SQL assignments and submit those on or before the due date.
+5/25/24, 9:56 PM - +91 94387 76400: Due dt when
+5/25/24, 9:56 PM - +91 97176 11607: what is the due date
+5/25/24, 9:58 PM - DSDebanjanPhD: You can check the due date by clicking on the assignments tab. The due date for me is 24 June 2024.
+5/25/24, 10:12 PM - +91 72057 52124: This message was deleted
+5/25/24, 10:13 PM - +91 72057 52124: <Media omitted>
+Are you talking about this?
+5/25/24, 10:13 PM - +91 72057 52124: Or is there anyplace for assignment we need to check?
+5/25/24, 10:32 PM - +91 83104 72821: Hello Guys, can anyone tell me whether SQL course is completed or ???
+5/25/24, 10:33 PM - DSDebanjanPhD: No, it is going on.
+5/25/24, 10:34 PM - DSDebanjanPhD: There is a lot more topics to cover including Joins, Functions, CTE, etc.
+5/25/24, 10:35 PM - DSDebanjanPhD: Yes, Subhajit.
+5/26/24, 12:10 PM - +91 72057 52124: But for me last date is 14-8 ..is it same for you too?
+5/26/24, 12:24 PM - +91 96678 66478: So it's an assignment?
+5/26/24, 1:19 PM - DSDebanjanPhD: Yes, I have three assignments and two case studies to submit by that date.
+5/26/24, 1:20 PM - DSDebanjanPhD: Yes, three assignments and two case studies like I mentioned earlier
+5/26/24, 1:21 PM - +91 96678 66478: OK thanku
+5/27/24, 5:06 PM - +91 95353 22443: Hi, I'm not able to login to LMS portal since 10days, contacted support team but issue is not resolved.
+5/27/24, 5:06 PM - +91 95353 22443: IMG-20240527-WA0019.jpg (file attached)
+5/27/24, 5:11 PM - DSDebanjanPhD: Try again using an Incognito window. Have you already tried it?
+5/27/24, 5:12 PM - +91 95353 22443: Yes tried
+5/27/24, 5:16 PM - +91 95823 01910: Just send an email at support@intellipaat.com stating all the problems you are facing
+5/27/24, 5:16 PM - +91 63003 52116: Intellipat Support Team2.vcf (file attached)
+5/27/24, 5:17 PM - +91 63003 52116: @919535322443 you can call to this number
+5/27/24, 5:17 PM - +91 95353 22443: Thank you
+5/27/24, 5:27 PM - +91 89766 89425: Send mail they will do it in few hours.
+5/27/24, 6:36 PM - +91 95353 22443: It was a date format issue, changed from 12hrs to 24hrs
+5/27/24, 6:36 PM - DSDebanjanPhD: I am glad to know that the issue got resolved.
+5/27/24, 6:36 PM - DSDebanjanPhD: Congratulations!
+5/27/24, 7:04 PM - +91 95353 22443: I appreciate you taking the time to assist me in troubleshooting and fixing the specific issue.
+5/27/24, 7:04 PM - +91 95353 22443: 🙏
+5/27/24, 7:05 PM - DSDebanjanPhD: Glad to be of help!
+5/28/24, 7:11 AM - +91 89758 21650 joined using this group's invite link
+5/28/24, 7:13 AM - +91 90662 25219 joined using this group's invite link
+5/28/24, 7:17 AM - +91 87000 89812 joined using this group's invite link
+5/28/24, 1:39 PM - ~ Kiran Kumar pinned a message
+5/28/24, 6:16 PM - +91 72057 52124: IMG-20240528-WA0016.jpg (file attached)
+I am getting this error..can anyone suggest..what I m doing wrong please
+5/28/24, 6:18 PM - DSDebanjanPhD: I suppose that was not the first time you have tried to create a unique key named uk_did.
+5/28/24, 6:19 PM - DSDebanjanPhD: Change the name of the constraint from uk_did to something else, and try again. <This message was edited>
+5/29/24, 9:07 AM - +91 99208 38811: This message was deleted
+5/29/24, 9:09 AM - +91 99208 38811: https://learn.microsoft.com/en-us/training/modules/transform-data-by-implementing-pivot-unpivot-rollup-cube/
+
+https://learn.microsoft.com/en-us/training/browse/?products=sql-server
+5/29/24, 9:12 AM - +91 99208 38811: 8860068189
+5/29/24, 9:14 AM - +91 99208 38811: Please don't add this number to any group...use it just for queries...
+5/29/24, 9:18 AM - +91 87000 89812: Ok
+5/29/24, 1:27 PM - +91 78994 91261 joined using this group's invite link
+5/29/24, 5:25 PM - +91 87000 89812: Can any one please provide me a google drive link
+5/29/24, 5:26 PM - +91 95353 22443: https://drive.google.com/drive/folders/1L8VKDskffYBnixC4fIODATClEdwdSq7o?usp=drive_link
+5/29/24, 5:26 PM - +91 70939 64349: This message was deleted
+5/29/24, 5:26 PM - +91 87000 89812: Thnku soo much
+5/29/24, 5:26 PM - ~ Gayathri S D Sd pinned a message
+5/30/24, 8:49 AM - +91 77758 98768 joined using this group's invite link
+5/30/24, 8:51 AM - +91 98214 28663 joined using this group's invite link
+5/30/24, 8:56 AM - +91 63002 56332 joined using this group's invite link
+5/30/24, 9:15 AM - +91 99208 38811: https://learn.microsoft.com/en-us/sql/relational-databases/user-defined-functions/user-defined-functions?view=sql-server-ver16
+5/30/24, 9:16 AM - +91 99208 38811: https://learn.microsoft.com/en-us/sql/t-sql/functions/functions?view=sql-server-ver16
+5/30/24, 9:17 AM - +91 99208 38811: https://learn.microsoft.com/en-us/office/troubleshoot/access/database-normalization-description
+5/30/24, 12:31 PM - +91 96328 88173: Hi. Anyone received the schedule of all the classes that we attended during this 11 months program ?
+5/30/24, 6:26 PM - +91 89496 49521 changed this group's settings to allow only admins to add others to this group.
+5/30/24, 6:26 PM - +91 89496 49521 changed this group's settings to allow all members to add others to this group.
+5/30/24, 6:26 PM - +91 89496 49521 changed this group's settings to allow only admins to add others to this group.
+5/30/24, 9:01 PM - +91 94596 89021: Hi All , 
+I missed today’s session , can anyone please let me know what all was taught , I see two files Demo 9 and 10 . Are these the two ?
+5/30/24, 9:31 PM - +91 89202 67303: IMG-20240530-WA0010.jpg (file attached)
+5/30/24, 9:31 PM - +91 89202 67303: Importing file facing issue
+5/30/24, 9:34 PM - +91 87000 89812: U can check recorodings
+5/30/24, 9:45 PM - +91 91136 61297: Hi can anyone share
+5/30/24, 9:45 PM - +91 91136 61297: IMG-20240530-WA0013.jpg (file attached)
+This SqL fike
+5/30/24, 9:45 PM - +91 91136 61297: File
+5/31/24, 8:41 AM - +91 81234 33626: Are the windows function being taught to us?
+5/31/24, 8:41 AM - +91 81234 33626: Because I missed out on a few mins of class
+5/31/24, 8:41 AM - +91 95353 22443: Not yet
+5/31/24, 8:42 AM - +91 81234 33626: After parsename  what topics did we see?
+5/31/24, 8:47 AM - +91 87000 89812: Date
+5/31/24, 8:50 AM - +91 81234 33626: Thanks
+5/31/24, 11:51 AM - +91 99208 38811: https://www.mssqltips.com/sqlservertip/1145/date-and-time-conversions-using-sql-server/
+5/31/24, 11:51 AM - +91 99208 38811: https://www.mssqltips.com/sqlservertip/7023/sql-format-currency-options/
+6/2/24, 5:40 PM - +91 96328 88173: 2-3 people asked on how to replace multiple characters in SQL. Sir explained about using nested replace functions (one replace inside another). You can also use *TRANSLATE* function
+6/2/24, 5:41 PM - +91 96328 88173: example : select translate('A,B.C-D;E',',.-;',',,,,')
+6/2/24, 5:41 PM - +91 96328 88173: replaces comma, dot, dash, semicolon with comma
+6/2/24, 5:41 PM - +91 96328 88173: so, output would be A,B,C,D,E
+6/4/24, 9:15 AM - +91 95792 15739: Please send driver link
+6/4/24, 9:15 AM - +91 99872 93148: driver?
+6/4/24, 9:15 AM - +91 95792 15739: Sorry 
+Drive
+6/4/24, 9:16 AM - DSDebanjanPhD: https://drive.google.com/drive/folders/1L8VKDskffYBnixC4fIODATClEdwdSq7o?usp=drive_link
+6/4/24, 9:16 AM - +91 95792 15739: Thank you
+6/4/24, 9:19 AM - +91 83104 72821: Hi Guys good morning
+6/4/24, 9:19 AM - +91 83104 72821: Did anyone completed assignments??
+6/4/24, 9:20 AM - +91 87000 89812: Not yet
+6/4/24, 9:20 AM - +91 87000 89812: Assignments are not showing pending
+6/4/24, 9:46 AM - 🇮🇳DSDrSheshadriSurgeon: Just refresh assignments
+6/4/24, 9:47 AM - +91 87000 89812: Ok
+6/4/24, 9:52 AM - +91 87000 89812: IMG-20240604-WA0002.jpg (file attached)
+6/4/24, 9:52 AM - +91 87000 89812: Its showing 0
+6/4/24, 9:53 AM - 🇮🇳DSDrSheshadriSurgeon: It ll show over due and not dur
+6/4/24, 9:54 AM - 🇮🇳DSDrSheshadriSurgeon: Once u click assignments it show dues.
+6/4/24, 9:54 AM - +91 87000 89812: Okay
+6/4/24, 9:54 AM - 🇮🇳DSDrSheshadriSurgeon: Even i kept waiting thinking no assignments hv come
+6/4/24, 9:54 AM - +91 87000 89812: Okay let me check
+6/4/24, 9:56 AM - +91 97397 59127: IMG-20240604-WA0003.jpg (file attached)
+Like this?
+6/4/24, 9:57 AM - +91 87000 89812: U can see there we can submit these assignments till 14th august
+6/4/24, 9:57 AM - +91 97397 59127: Yea
+6/4/24, 9:57 AM - +91 87000 89812: If assignments will pending then it will show on dashboard
+6/4/24, 9:58 AM - +91 87000 89812: If u are completing these assignments then you are doing in adavance
+6/4/24, 9:58 AM - +91 97397 59127: Don’t know abt tht
+6/4/24, 9:58 AM - +91 87000 89812: Will ask from baljit tommorw
+6/4/24, 9:58 AM - +91 97397 59127: 👍🏻
+6/4/24, 12:57 PM - +91 70220 04861: Hi... can anyone confirm, whether today's lecture recording is uploaded on LMS?
+I don't see any video on today's date.
+6/4/24, 2:31 PM - +91 70939 64349: uploaded
+6/4/24, 2:57 PM - +91 70220 04861: Thanks... Will check now...
+6/4/24, 10:56 PM - DSDebanjanPhD: Could anyone please tell me how to take a sum of the row values in the SQL SERVER? The SUM( ) function adds up the numeric data in a column (field), but how to take row-wise sum in a table?
+6/4/24, 11:38 PM - +91 96328 88173: You mean add multiple columns of a single row ?
+6/4/24, 11:42 PM - +91 78298 76662: I think you can just write scalar function by passing all the columns as parameter. Or just do col1+col2.. and so on..
+6/5/24, 9:18 AM - 🇮🇳DSDrSheshadriSurgeon: Can someone post todays last two links here
+6/5/24, 9:18 AM - 🇮🇳DSDrSheshadriSurgeon: Tnq
+6/5/24, 9:26 AM - 🇮🇳DSDrSheshadriSurgeon: Can someone post todays last two links here. Tnq
+6/5/24, 9:29 AM - +91 96328 88173: https://learn.microsoft.com/en-us/answers/questions/454173/query-optimization-(hash-index-b-tree)
+6/5/24, 9:30 AM - +91 96328 88173: https://www.brentozar.com/archive/2024/06/whos-hiring-in-the-microsoft-data-platform-community-june-2024-edition/
+6/5/24, 9:35 AM - DSDebanjanPhD: Could anyone please share the certification links that Balgeet sir has provided during the previous classes?
+6/5/24, 9:36 AM - 🇮🇳DSDrSheshadriSurgeon: Tnq
+6/5/24, 10:55 AM - +91 99208 38811: I guess you are looking for this one?
+6/5/24, 10:57 AM - +91 99208 38811: IMG-20240605-WA0005.jpg (file attached)
+you can navigate to group and look in links section as shown
+6/5/24, 12:13 PM - DSDebanjanPhD: Thank you
+6/5/24, 12:14 PM - +91 99208 38811: np
+6/5/24, 2:37 PM - DSDebanjanPhD: IMG-20240605-WA0017.jpg (file attached)
+As discussed with Balgeet sir in class today, I created a trivial GUI registration form using Python in VS Code. How can I feed the entries to a database in the SQL Server? I need to build an API for that. Could anyone please tell me how to get started with this? Balgeet sir has asked me to take the help of ChatGPT for the same.
+6/5/24, 2:37 PM - DSDebanjanPhD: I guess that API would work similarly for any HTML form as well.
+6/5/24, 3:31 PM - +91 96678 66478: Has python been started?
+6/5/24, 3:31 PM - +91 87000 89812: Not yet
+6/5/24, 3:31 PM - +91 96678 66478: Ok
+6/5/24, 4:10 PM - +91 99208 38811: it seems you have completed just the GUI part. For saving the details you have to establish a jdbc connection with your database first. For that you might require mssql driver or may be pip install <mssql library>. Then with insert or update method from that driver you can save the changes. A simple google search can help you on that.
+6/5/24, 4:15 PM - +91 99208 38811: Again GUI is not required if your objective is to save the data using python. You can use Flask Restful service to achieve it.
+6/5/24, 4:24 PM - Bhagavan: IMG-20240605-WA0021.jpg (file attached)
+*Can someone correct the mistake*
+6/5/24, 5:32 PM - +91 78298 76662: ALTER TABLE Customer
+ADD CONSTRAINT FK_SalesmanId
+FOREIGN KEY (SalesmanId) REFERENCES Salesman(SalesmanId);
+6/5/24, 5:36 PM - Bhagavan: Thank you What is *FK_* Here?
+6/5/24, 5:37 PM - Bhagavan: Name to a constraint?
+6/5/24, 5:38 PM - +91 78298 76662: Fk is just a naming convention... So that we know it's a name of a foreign key... What u have given also is fine, but it will conflict with the existing col name...
+6/5/24, 5:40 PM - +91 78298 76662: And also after foreign key (here should be the column name from the same table which will refer to the other table) should come.. rest is fine...
+6/5/24, 5:40 PM - Bhagavan: Ohh Ok, Thank you very much Noel for your time and help 🙏
+6/5/24, 7:32 PM - DSDebanjanPhD: But, this is not a Java application. The GUI is designed using Python and the Tkinter library. Will a JDBC connection work in this case?
+6/5/24, 8:00 PM - +91 99208 38811: you are right it should be odbc connection not jdbc...my mistake
+6/5/24, 8:04 PM - +91 99208 38811: https://stackoverflow.com/questions/33725862/connecting-to-microsoft-sql-server-using-python
+
+Check this. May be this will help
+6/5/24, 8:04 PM - +91 99208 38811: https://docs.devart.com/odbc/sqlserver/python.htm
+6/5/24, 8:06 PM - +91 99208 38811: one thing is for sure you don't need a GUI to establish db connection.
+6/5/24, 8:12 PM - DSDebanjanPhD: Accha, thanks
+6/6/24, 7:33 AM - +91 94596 89021: Hi Everyone , the assignments given to us are the ones which are give in the lms portal ? or are there any separate assignments ?
+6/6/24, 9:15 AM - +91 99208 38811: https://www.youtube.com/watch?v=QxaOlmv79ls&list=PLSECvWLlUYeF06QK5FOOELvgKdap3cQf0&ab_channel=NetflixData
+6/6/24, 9:17 AM - +91 99208 38811: https://learn.microsoft.com/en-us/sql/relational-databases/json/json-data-sql-server?view=sql-server-ver16
+6/6/24, 9:17 AM - +91 99208 38811: https://learn.microsoft.com/en-us/sql/relational-databases/xml/xml-data-sql-server?view=sql-server-ver16
+6/6/24, 9:19 AM - +91 94596 89021: ?
+6/6/24, 9:19 AM - +91 99208 38811: same
+6/6/24, 9:23 AM - +91 94596 89021: Thank You !
+6/7/24, 7:45 AM - +91 86670 71125 joined using this group's invite link
+6/7/24, 7:46 AM - +971 50 405 1906 joined using this group's invite link
+6/7/24, 7:46 AM - Bhagavan: Dr Sheshadri, Its really inspirational.
+6/7/24, 7:47 AM - +91 62019 04314 joined using this group's invite link
+6/7/24, 7:47 AM - 🇮🇳DSDrSheshadriSurgeon: Mr Bhagwan tnq. It's equally inspiring to see you guys working in different sectors and aspiring further excellence
+6/7/24, 7:53 AM - +91 84408 19617 joined using this group's invite link
+6/7/24, 8:05 AM - +91 99208 38811: https://github.com/alexeygrigorev/data-science-interviews
+6/7/24, 8:05 AM - +91 99208 38811: https://github.com/aaronwangy/Data-Science-Cheatsheet
+6/7/24, 8:05 AM - +91 99208 38811: https://github.com/khanhnamle1994/cracking-the-data-science-interview?tab=readme-ov-file#data-science-cheatsheets
+6/7/24, 8:05 AM - +91 99208 38811: https://github.com/youssefHosni/Data-Science-Interview-Questions-Answers
+6/7/24, 8:06 AM - +91 99208 38811: https://github.com/alirezadir/Machine-Learning-Interviews
+6/7/24, 9:17 AM - 🇮🇳DSDrSheshadriSurgeon: Plz guide how to do assignments.
+6/7/24, 9:20 AM - +91 89766 89425: Thanks for sharing these links @919920838811  <This message was edited>
+6/7/24, 9:30 AM - 🇮🇳DSDrSheshadriSurgeon: Plz share today's drive link.
+6/7/24, 10:11 AM - Bhagavan: Trainers's Google drive link
+
+https://drive.google.com/drive/folders/1L8VKDskffYBnixC4fIODATClEdwdSq7o
+6/7/24, 10:37 AM - 🇮🇳DSDrSheshadriSurgeon: Tnq
+6/7/24, 10:49 AM - DSDebanjanPhD: During the first half of the class today the discussion was very insightful. Regarding that, I would like to share one particular perspective of mine. One of our classmates who is currently working as a lecturer of Mathematics, was talking about transitioning his career into data science related fields and how he found all the Data Analytics course syllabus so hectic because he is pursuing it alongside teaching Mathematics. I agree with him in this regard. Being trained in Theoretical Physics, I too have some exposure to Modern Mathematics. But I fail to realize how that is relevant to solving problems in the real world. For example, one needs to have a fair amount of working knowledge of Probability and Statistics in order to survive in the Data industry, but one doesn't need to go through the Kolmogorov axioms or the Borel measure, and how a probability measure is defined, and what is a set of events. One doesn't need to have knowledge about the relevant Sigma Algebra axioms. During my Ph.D. coursework, I have realized that Modern Mathematics is all about abstraction and generalizations. We do not consider vectors as directed line segments anymore. Anything can be a vector as long as it follows a certain set of axioms while being defined on a scalar field. Matrices even polynomials are vectors. We generalize the idea of perpendicular vectors with orthogonality in inner product spaces. Even the inner product is an additional structure on a linear vector space. Linearly independent vectors can exist without being orthogonal to each other. We now call them tensors of rank 1. There are even further classifications: contravariant and covariance vectors. And I do not know how the idea of a wedge product which is relevant for entertaining these theoretically, is going to be relevant practically. The concept of distance has also been generalized as a metric, following again a set of axioms. As I mentioned, these concepts are very much useful while dealing with theoretical ideas, but finds relevance in the solutions of real world problems not in a straightforward way, such as the invention of zero (the concept of 'sunyata' or nothingness) was an intellectual exercise back then, which enjoys enormous importance in today's day and age. The idea of open sets and open balls even in higher dimensions has opened the gateway to topology and manifolds, but they remain mostly theoretical concepts except their application in some domains such as Calabi-Yau manifold in string cosmology or the angular momentum algebra of electrons or any spin-1/2 particle, which is nothing but su(2), or the application of Fermat's little theorem in Public key cryptography. Even in SQL, we have used the concept of Cartesian product (an important relation between two sets) while dealing with self join. The ideas and concepts of Pure Mathematics finds their applications in unexpected ways, however it hardly equips us to deal with and solve real-life problems. This has been one of prime reasons for my frustration with Pure Mathematics as it is only concerned with logical beauty of mathematical objects. As I am in the business of Quantum Mechanics, one quote really resonates with me, "The quantum phenomena does not happen in Hilbet spaces, they happen in a laboratory." I just took this opportunity to vent my frustration and share my ideas regarding pure mathematics, and I am looking forward to getting to know your response on it. <This message was edited>
+6/7/24, 10:53 AM - +91 87000 89812: We are not from technical background if we will work on some real projects then we will be able to understand practical scenarios
+6/7/24, 10:53 AM - DSDebanjanPhD: +1
+6/7/24, 10:54 AM - +91 87000 89812: @919836950724  don’t wrry u r from mathematics background u will be able to apply these things
+6/7/24, 10:54 AM - +91 87000 89812: Practically also
+6/7/24, 10:56 AM - DSDebanjanPhD: Yes, but I just wanted to point out the huge gap that exists between being proficient in theory and being a practitioner.
+6/7/24, 10:56 AM - +91 87000 89812: Really data will be different from therotical but in that we have to put our own theory
+6/7/24, 10:56 AM - +91 87000 89812: The just taught us formulas
+6/7/24, 10:57 AM - DSDebanjanPhD: Yes, I agree. We learnt mostly syntax.
+6/7/24, 10:57 AM - +91 87000 89812: Absolutely but this gap will be filled when we will work in practical things
+6/7/24, 10:58 AM - +91 87000 89812: I request from everyone if there is any solution or problem please put that in group
+6/7/24, 10:58 AM - +91 87000 89812: So that we can learn from each other
+6/7/24, 11:01 AM - DSDebanjanPhD: I have learnt the R programming language during my Ph.D. coursework. As sir was advising us today to get proficient in R, I can help you folks if you would like to pick it up. Plus, I'll also be able to refresh my knowledge of R in the process.
+6/7/24, 11:01 AM - +91 91136 61297: you understood my condition bro thanks
+6/7/24, 11:01 AM - +91 87000 89812: I appreciate thank u so much
+6/7/24, 11:02 AM - DSDebanjanPhD: So, what topics do you teach, brother?
+6/7/24, 11:03 AM - +91 91136 61297: 11 and 12 th Maths
+6/7/24, 11:03 AM - DSDebanjanPhD: Accha
+6/7/24, 11:03 AM - +91 91136 61297: CBSE Board
+6/7/24, 11:03 AM - +91 87000 89812: Right now am preparing for cat u can help in that 😊
+6/7/24, 11:03 AM - +91 91136 61297: Sure
+6/7/24, 11:04 AM - +91 91136 61297: Anywhere u are facing problem share it I'll solve it and send it to you
+6/7/24, 11:04 AM - +91 87000 89812: Am from businnes administration i can help u how to manage your finacials
+6/7/24, 11:04 AM - +91 87000 89812: Sure i will
+6/7/24, 11:31 AM - +91 87541 39431: IMG-20240607-WA0009.jpg (file attached)
+Hi....i am not able to click on the assignments to view them....am i on the right page??
+6/7/24, 11:37 AM - +91 87000 89812: U dont have
+6/7/24, 11:37 AM - +91 87000 89812: To click here
+6/7/24, 11:37 AM - +91 87000 89812: U will able open this in weekly classes
+6/7/24, 11:38 AM - +91 87000 89812: Option
+6/7/24, 11:39 AM - +91 87541 39431: IMG-20240607-WA0011.jpg (file attached)
+U mean on this??
+6/7/24, 11:39 AM - +91 87000 89812: Yes
+6/7/24, 11:39 AM - +91 87000 89812: Assignment submission
+6/7/24, 11:41 AM - +91 87541 39431: Yes...here am able to click...also there are assignments under the 'study materials' option....what about that?
+6/7/24, 11:41 AM - +91 87000 89812: Both are same
+6/7/24, 11:41 AM - +91 87541 39431: Oh ok....thanks a lot😇
+6/7/24, 12:18 PM - +91 99208 38811: Hi @919836950724 did able to resolve that problem of making a connection from python to db and save form data????
+6/7/24, 12:19 PM - +91 99208 38811: No problem
+6/7/24, 12:21 PM - DSDebanjanPhD: Bro, I am traveling. Now in Bhubaneswar.
+6/7/24, 12:23 PM - +91 99208 38811: Wow! Okay, happy journey.
+
+Why I'm asking if you have not completed it. I'll try this at my end, and if I succeed, I'll share the github link.
+6/7/24, 12:24 PM - DSDebanjanPhD: Much appreciated 🙏
+6/7/24, 12:24 PM - +91 99208 38811: Great
+6/7/24, 1:14 PM - +91 96678 66478: If someone who is not from mathematics background so what about that person ....will he able to apply these things or not ?
+6/7/24, 2:45 PM - +91 96678 66478: IMG-20240607-WA0026.jpg (file attached)
+Someone can tell me about this error
+6/7/24, 2:46 PM - +91 96328 88173: Select full statement until last line and execute
+6/7/24, 2:48 PM - +91 97397 59127: And also use ; at the last
+6/7/24, 2:50 PM - +91 96678 66478: No it's not working
+6/7/24, 2:56 PM - +91 96678 66478: IMG-20240607-WA0027.jpg (file attached)
+See
+6/7/24, 2:59 PM - +91 96328 88173: Executed correctly
+6/7/24, 2:59 PM - +91 96328 88173: But 0 rows affected
+6/7/24, 2:59 PM - +91 96328 88173: So, check data and logic
+6/7/24, 3:40 PM - +91 81234 33626: Hi all, our SQL classes are concluded?
+6/7/24, 3:42 PM - Bhagavan: Not very sure.  I even got an email saying it's concluded
+6/7/24, 3:45 PM - +91 99208 38811: Yes, today was our last class on sql
+6/7/24, 4:24 PM - +91 81234 33626: Same
+6/7/24, 4:25 PM - +91 87000 89812: I think now they will arrange some practical sessions
+6/7/24, 4:48 PM - +91 95353 22443: IMG-20240607-WA0035.jpg (file attached)
+Can anyone help me to resolve this error!
+6/7/24, 5:34 PM - +91 96678 66478: IMG-20240607-WA0036.jpg (file attached)
+Anyone can resolve it
+6/7/24, 5:37 PM - +91 99208 38811: data in both tables are not compatible...what I mean is all Customer table salesmanid should present in Salesman table. do one thing truncate customer table and try the query <This message was edited>
+6/7/24, 6:11 PM - +91 99208 38811: @919836950724 checkout this https://github.com/ThirdEyeInfo/py-ms-sql-connection
+6/8/24, 1:39 PM - +91 87000 89812: Can anyone tell me what is unpivot
+6/8/24, 1:42 PM - +91 96328 88173: To transform columns into rows
+6/8/24, 1:43 PM - +91 87000 89812: Pivot is opposite?
+6/8/24, 1:43 PM - +91 96328 88173: Yes
+6/8/24, 1:43 PM - +91 87000 89812: Thnks
+6/8/24, 6:05 PM - Bhagavan: Hi Debanjan,
+
+I have created a simple Django Webserver with 4 REST APIs.
+I am attaching the sources and documentation here.
+
+I sharing after I made it simple and light weight. <This message was edited>
+6/8/24, 6:06 PM - Bhagavan: IMG-20240608-WA0029.jpg (file attached)
+6/8/24, 6:08 PM - Bhagavan: Replace your system's IP while running
+6/8/24, 6:08 PM - Bhagavan: dJango-webserver-Aura.zip (file attached)
+dJango-webserver-Aura.zip
+6/8/24, 6:36 PM - +91 89032 09082: Hi, 
+Everyone started doing the assignments?
+6/8/24, 6:46 PM - Bhagavan: I have submitted first 2
+6/8/24, 7:42 PM - +91 96678 66478: May u Share sm screen short as like hint for us
+6/8/24, 7:44 PM - +91 98117 27061: Does anyone have balgeet sir's number?
+6/8/24, 7:46 PM - Bhagavan: DSDatabaseBaljeet.vcf (file attached)
+6/8/24, 7:47 PM - Bhagavan: I can, but for which question?
+I will post you on personal chat
+6/8/24, 7:50 PM - Bhagavan: You know, I have no objection in sharing the complete solution, if you ask
+6/8/24, 7:56 PM - +91 98117 27061: Thanks ji
+6/8/24, 8:21 PM - +91 87000 89812: How much  score u got?
+6/8/24, 8:27 PM - Bhagavan: 1st 10/10 😊
+2nd I yet to get feedback
+6/8/24, 8:35 PM - +91 87000 89812: U can try 3 times
+6/8/24, 8:39 PM - Bhagavan: Yes I have submitted for 2nd time with few corrections
+6/8/24, 9:23 PM - +91 99208 38811: @919902096750  In first assignment Question 2, it is asking to add foreign key for salesmanid in customer table. But what I found data are not compatible how do you overcome that situation?
+
+Also can you help us sharing some tip like how do you submit your assignment. May be a screen shot of assignment structure?
+6/8/24, 10:04 PM - Bhagavan: What my understanding is, we need to finish table creation (Defining Schema) before inserting data into tables.
+Especially if there is any Primary and Foreign key Dependency
+Note: I am not any DB expert,
+6/8/24, 10:06 PM - +91 99208 38811: Understood, I did the same but I guess I have write an additional script for data normalization
+6/8/24, 10:07 PM - Bhagavan: IMG-20240608-WA0032.jpg (file attached)
+6/8/24, 10:08 PM - +91 99208 38811: IMG-20240608-WA0033.jpg (file attached)
+I am creating something like above for submission. I will finally make zip of this. Do you think it's a good idea?
+6/8/24, 10:10 PM - Bhagavan: Agree it is more organized, they may accept.
+In my case, I have written Q and A in a single file
+6/8/24, 10:10 PM - +91 99208 38811: Okay
+6/8/24, 10:12 PM - +91 99208 38811: Thanks for your feedback.
+6/8/24, 10:12 PM - +91 99208 38811: I will also keep everything in one file
+6/8/24, 10:42 PM - +91 89032 09082: For assignment 2, we have to create own table? Or any reference is there?
+6/8/24, 10:42 PM - Bhagavan: I have created my own
+6/8/24, 10:44 PM - +91 89032 09082: Ok
+6/8/24, 11:46 PM - +91 93487 59266: Yes
+6/8/24, 11:47 PM - +91 93487 59266: There is a reference table
+6/8/24, 11:47 PM - +91 93487 59266: For every assignment
+6/8/24, 11:48 PM - +91 89032 09082: For assignment 1 it's there, but i didn't find it for assignment 2.
+6/8/24, 11:48 PM - +91 93487 59266: I will send you.just wait
+6/8/24, 11:53 PM - +91 93487 59266: IMG-20240608-WA0034.jpg (file attached)
+6/8/24, 11:54 PM - +91 93487 59266: IMG-20240608-WA0035.jpg (file attached)
+Click here and download the file
+6/9/24, 5:12 AM - Bhagavan: Ohhhh, the dataset already available
+6/9/24, 7:16 AM - +91 93487 59266: @919902096750 Yes buddy ✌️
+6/9/24, 10:20 AM - +91 89032 09082: Got it, Thank you
+6/9/24, 10:58 AM - +91 93487 59266: You well come
+6/9/24, 11:29 AM - +91 89032 09082: IMG-20240609-WA0006.jpg (file attached)
+6/9/24, 11:30 AM - +91 89032 09082: How did you import the data? While importing I am getting this error message
+6/9/24, 11:33 AM - +91 93487 59266: I have not done it yet
+6/9/24, 11:35 AM - +91 93487 59266: Did anyone do this??
+6/9/24, 11:54 AM - +91 96678 66478: It's not showing anything after download the Attachment plz tell me what I have to be do after that <This message was edited>
+6/9/24, 11:57 AM - +91 99208 38811: IMG-20240609-WA0007.jpg (file attached)
+did you click on the highlighted button?
+6/9/24, 11:58 AM - +91 99208 38811: one Jomato.csv file you should see
+6/9/24, 12:07 PM - +91 93487 59266: Let me check
+6/9/24, 12:11 PM - +91 93487 59266: This message was deleted
+6/9/24, 12:18 PM - +91 93487 59266: @919902096750 Do u have any idea regarding the assignment.The second one
+6/9/24, 12:28 PM - Bhagavan: Yeah, according to my understanding I have submitted
+6/9/24, 12:28 PM - +91 93487 59266: The 2nd one
+6/9/24, 12:29 PM - +91 93487 59266: Have u imported the table in sql server???
+6/9/24, 12:31 PM - Bhagavan: Till yesterday I wasn't aware of the data is redily available.
+I have created my own data and submitted the assignment
+6/9/24, 12:33 PM - Bhagavan: By the way, I remember  in one of the session Baljeet explained how to import data from CSV to DB
+6/9/24, 12:34 PM - +91 93487 59266: I am having some issues when uploading
+6/9/24, 12:35 PM - +91 93487 59266: Everything is alright then why the error is popping <This message was edited>
+6/9/24, 1:03 PM - Bhagavan: I could import the data.
+Even I got error while importing due to invalid/too big "Resturant" name.
+I have deleted those elements manually (Search and replace)
+After that I could import it
+6/9/24, 1:04 PM - Bhagavan: Jomato.csv (file attached)
+Jomato.csv
+6/9/24, 1:04 PM - Bhagavan: Edited file with 7k Rows
+6/9/24, 1:05 PM - Bhagavan: IMG-20240609-WA0012.jpg (file attached)
+6/9/24, 1:06 PM - Bhagavan: IMG-20240609-WA0013.jpg (file attached)
+6/9/24, 1:07 PM - Bhagavan: IMG-20240609-WA0014.jpg (file attached)
+6/9/24, 1:11 PM - ~ Sanjay left
+6/9/24, 1:20 PM - +91 93487 59266: I think i got the same error
+6/9/24, 1:21 PM - +91 93487 59266: Thanks @919902096750 ✌️✌️✌️
+6/9/24, 2:03 PM - +91 91136 61297: How are you guys uploading results
+6/9/24, 2:04 PM - +91 91136 61297: Taking Screenshot of result or just Syntax
+6/9/24, 2:07 PM - +91 91136 61297: I'm just starting this Assignment process 
+Do I have to watch an recording regarding please mention
+6/9/24, 3:54 PM - +91 99208 38811: Steps to import Jomato CSV.pptx (file attached)
+Steps to import Jomato CSV.pptx
+6/9/24, 3:57 PM - +91 99208 38811: @919902096750 @919348759266 , no need to edit the csv file. You have to set nvarchar to Max size while importing. Refer the ppt.
+6/9/24, 4:05 PM - Bhagavan: Wow Lot of efforts, Thank you
+6/9/24, 4:05 PM - Bhagavan: I am learning a lot from the group 🙏
+6/9/24, 4:44 PM - +91 93487 59266: Lots of dedication Thanks👊
+6/9/24, 5:03 PM - +91 87541 39431: Hi i am still on assignment 1....and it says to fetch the names of customers ending with 'N'.....there are no customer names that are ending with n right??🙄🙄.....also we need to get purchase amount value more than 500.....so are both the above things supposed to be done together using and operator or separately??
+6/9/24, 5:10 PM - +91 89766 89425: Thank you 🙏🙏..
+6/9/24, 5:53 PM - +91 99208 38811: I think it's a single query, and it will not fetch any records.
+6/9/24, 8:33 PM - +91 89032 09082: Did they cover transaction topic in sql?
+6/9/24, 8:33 PM - +91 99208 38811: yes
+6/9/24, 8:35 PM - +91 89032 09082: Do u know on which day it was covered?
+6/9/24, 8:38 PM - +91 99208 38811: I think it's on either last week Thursday or Friday
+6/9/24, 8:40 PM - +91 87000 89812: In an assignment we just need to save sql file and upload ?
+6/9/24, 8:40 PM - +91 87000 89812: @919902096750
+6/9/24, 8:47 PM - Bhagavan: Yes, I did the same
+6/9/24, 8:47 PM - +91 87000 89812: Ok thnks
+6/9/24, 8:47 PM - +91 87000 89812: So how many assignments
+6/9/24, 8:47 PM - +91 87000 89812: You have done till now
+6/9/24, 8:48 PM - +91 87000 89812: Done all?
+6/9/24, 8:48 PM - Bhagavan: 3
+6/9/24, 8:49 PM - Bhagavan: 1 approved 
+2 got some feedback 
+3 yet to get feedback
+6/9/24, 8:49 PM - +91 87000 89812: Okay if i need any help i will ping you
+6/9/24, 11:28 PM - +91 87541 39431: How do i upload the assignment??...i saved the sql file...but while uploading its not showing
+6/9/24, 11:29 PM - +91 99208 38811: You have to create a zip file then upload
+6/9/24, 11:40 PM - +91 87541 39431: Create only one file to zip??😯
+6/9/24, 11:42 PM - +91 99208 38811: IMG-20240609-WA0021.jpg (file attached)
+Read this. May be this will help.
+6/10/24, 7:30 AM - +91 93487 59266: I submmited two assignment both have got ten out of ten
+6/10/24, 7:31 AM - +91 93487 59266: Third one yet to get evaluate
+6/10/24, 8:53 AM - +91 89766 89425: By when we need to submit all assignments?
+6/10/24, 9:01 AM - +91 93487 59266: It have time till August
+6/10/24, 9:09 AM - +91 97397 59127: IMG-20240610-WA0002.jpg (file attached)
+Guys I'm not understanding this error can someone help me out plz
+6/10/24, 9:14 AM - +91 96678 66478: IMG-20240610-WA0004.jpg (file attached)
+Use region in second row
+6/10/24, 9:16 AM - +91 97397 59127: Thank you !
+6/10/24, 9:19 AM - +91 96678 66478: It's happend
+6/10/24, 9:19 AM - +91 97397 59127: Yes
+6/10/24, 11:51 AM - +91 87541 39431: IMG-20240610-WA0009.jpg (file attached)
+I am still not able to import jomato....my datatype for all the columns is showing as string....
+6/10/24, 11:54 AM - +91 99208 38811: check this ppt
+6/10/24, 11:59 AM - +91 87541 39431: I dont have he option of modify data....
+6/10/24, 11:59 AM - +91 87541 39431: Also in this i tried changing the datatype...but here there is no nvarchar...
+6/10/24, 12:25 PM - +91 96328 88173: Hi. Any idea about this week’s agenda or courses ?
+6/10/24, 12:40 PM - +91 93487 59266: May be  python or something…
+6/10/24, 12:52 PM - +91 96678 66478: IMG-20240610-WA0013.jpg (file attached)
+Plz tell me what I have to be done after create tble and insert the values in assignment 1
+6/10/24, 12:53 PM - +91 93487 59266: Which number are u doing
+6/10/24, 12:56 PM - +91 96678 66478: 1 I hv completed 2nd one is add primary key constraints what I have to be do in this
+6/10/24, 12:57 PM - +91 93487 59266: Nothing
+6/10/24, 12:58 PM - +91 93487 59266: Question is simple add primary key to the column if you added it’s over.
+6/10/24, 12:58 PM - +91 96678 66478: Ok
+6/10/24, 12:58 PM - +91 96678 66478: Don't need to add primary key constraints in this tble
+6/10/24, 1:28 PM - +91 93487 59266: Yes! The question is that to add primary key in the table
+6/10/24, 2:49 PM - +91 70939 64349: IMG-20240610-WA0016.jpg (file attached)
+from assignment 1-task 1 can we insert a new record in orders table with any values of our choice?
+6/10/24, 2:53 PM - +91 89032 09082: Yes
+6/10/24, 3:32 PM - +91 70939 64349: thank you
+6/10/24, 4:24 PM - +91 96328 88173: Next 4 days : MS SQL Assignment with Intellipaat Team
+6/11/24, 6:47 AM - +91 99208 38811: Anyone received todays class invite?
+6/11/24, 6:59 AM - +91 89496 49521: Dear Learner,
+
+
+
+Training Batch: MS SQL
+
+Trainer: Intellipaat Team
+
+
+
+Please find the below agenda to join the session:  
+
+
+1st Session:  MS SQL Assignment with Intellipaat Team
+
+2nd Session: MS SQL Assignment with Intellipaat Team
+
+3rd Session:  MS SQL Assignment with Intellipaat Team
+
+4th Session:  MS SQL Assignment with Intellipaat Team
+
+
+
+Please find the below link to join the session:   
+
+
+
+URL: https://us02web.zoom.us/webinar/register/WN_XHIpssydQOegm8Bp-eRWyg
+
+Access code: 899 8621 5652
+
+
+
+
+
+US Learner - 10th June to 13th June - Time - 8:30 PM CST. 
+
+INDIAN Learner - 11th June to 14th June - Time - 7 AM IST (GMT +5:30).
+
+
+NOTE: Your link will remain the same until further notice.
+
+
+
+Note: We request you to please fill this form  - https://zfrmz.com/BYebSjxUjhNW91CymaHx 
+
+LMS Tutorial: https://drive.google.com/file/d/1a-_LAdxqewWzgezEU0L7gMqWw4-h4g9v/view
+
+
+
+
+Thanks & Regards
+
+Intellipaat Team
+6/11/24, 7:21 AM - +91 97930 11302 joined using this group's invite link
+6/11/24, 7:24 AM - +91 98214 28663: The session ended early because she has something to do, right???
+6/11/24, 7:24 AM - +91 93487 59266: Yes
+6/11/24, 7:24 AM - +91 99208 38811: IMG-20240611-WA0000.jpg (file attached)
+Where is assignment submission button
+6/11/24, 7:24 AM - +91 93487 59266: It is not mandatory it is optional
+6/11/24, 7:25 AM - +91 95661 30451: The class ended !?
+6/11/24, 7:26 AM - +91 98214 28663: IMG-20240611-WA0002.jpg (file attached)
+6/11/24, 7:26 AM - +91 99208 38811: I understand it's not mandatory but still there should be a submit button
+6/11/24, 7:26 AM - Bhagavan: Session is ended due to trainer's personal emergency
+6/11/24, 7:26 AM - +91 99208 38811: this is under live session....
+6/11/24, 7:27 AM - +91 98214 28663: This is where you can submit your assignments
+6/11/24, 7:27 AM - +91 98214 28663: Yes
+6/11/24, 7:27 AM - +91 98537 84862: I joined late. Pls help me understand.  What happened to today's class ?
+
+Is it cancelled?
+6/11/24, 7:27 AM - +91 95661 30451: Okay. Thanks for the update !
+6/11/24, 7:27 AM - +91 99208 38811: I am asking non mandatory sessions
+6/11/24, 7:27 AM - +91 93487 59266: I think you should send them via mail
+6/11/24, 7:27 AM - +91 98537 84862: Okay
+6/11/24, 7:28 AM - +91 81234 33626: Okay so no session today?
+6/11/24, 7:29 AM - +91 99208 38811: I am feeling like this week session will be a waste of time
+6/11/24, 7:29 AM - +91 82481 11822: Why can't they assign some other trainer for the class in this big organization. We are around 60+ student . Wasting our class
+6/11/24, 7:29 AM - +91 81234 33626: No no this is better because we get practice time
+6/11/24, 7:30 AM - +91 99208 38811: hopefully
+6/11/24, 7:31 AM - Bhagavan: Agree
+6/11/24, 7:32 AM - Bhagavan: Paid practice session
+6/11/24, 7:34 AM - 🇮🇳DSDrSheshadriSurgeon: I think for beginners it helps. Others can help beginners like me
+6/11/24, 7:35 AM - +91 96328 88173: I agree. This will be waste of time unless there will be trainer to actually help the beginners
+6/11/24, 7:38 AM - +91 93487 59266: Ok lets do practice until the new topic starts
+6/11/24, 7:42 AM - Bhagavan: @918686494949 here are  the step to import CSV data.
+
+Thank you to SathyaPrakash efforts
+6/11/24, 8:00 AM - +91 99208 38811: You are welcome @919902096750
+6/11/24, 8:51 AM - +91 98117 27061: does anyone have Linux notes?
+6/11/24, 10:31 AM - +91 87541 39431: Whenever i tried to import jomato....I checked the preview in the wizard....so i could see that most of the values in the  columns got shifted to the right....means...eg...rating column had values of previous colum like 'takeaway'...etc....basically everything was a mess!!...the columns had both numeric and alphabetical values🤦🏻‍♀️.....and after researching somewhere i found out that when commas are used as delimiters it may happen like that.....so i removed alllll the commas from my excel file and then imported and changed the necessary datatypes. Now its working fine without errors. But the problem is i altered my entire database and madebit comma-less 😬😬. 
+If anyone has a better way of doing this...pls let me know. 🙄
+6/11/24, 10:41 AM - Bhagavan: Then use this CSV which i modified such that it does not have any special characters
+6/11/24, 10:41 AM - Bhagavan: This should solve your problem of importing
+6/11/24, 10:45 AM - +91 96328 88173: Do you remember the session date of this topic ? I missed this topic
+6/11/24, 11:18 AM - Bhagavan: IMG-20240609-WA0013.jpg (file attached)
+6/11/24, 11:18 AM - Bhagavan: IMG-20240609-WA0014.jpg (file attached)
+6/11/24, 11:18 AM - Bhagavan: IMG-20240609-WA0012.jpg (file attached)
+6/11/24, 11:18 AM - Bhagavan: Screenshots for import
+6/11/24, 11:38 AM - +91 96328 88173: Also, is there any assignment given on that topic? I see multiple discussions on that subject in this group
+6/11/24, 1:18 PM - +91 83104 72821: IMG-20240611-WA0020.jpg (file attached)
+Hello guys, am not able to import jomato file into DB getting below error
+6/11/24, 1:18 PM - +91 83104 72821: IMG-20240611-WA0021.jpg (file attached)
+6/11/24, 1:18 PM - +91 83104 72821: Can someone help me out please
+6/11/24, 1:28 PM - +91 93487 59266: You can refer this PPT
+6/11/24, 1:28 PM - +91 93487 59266: Steps to import Jomato CSV.pptx (file attached)
+Steps to import Jomato CSV.pptx
+6/11/24, 1:36 PM - +91 89202 67303: Its helpful
+6/11/24, 4:16 PM - +91 83104 72821: Thank you soo much @919348759266
+6/11/24, 5:11 PM - +91 83104 72821: Do we need to submit only quires or with the database
+6/11/24, 5:13 PM - +91 93487 59266: Only quires
+6/11/24, 5:14 PM - +91 93487 59266: Write the quires in sql and save it then send it as a zip file.
+6/11/24, 7:42 PM - +91 94596 89021: Has anyone received zoom class link for for tomorrow ? Or for this week ?
+6/11/24, 7:48 PM - Bhagavan: This is the link
+6/11/24, 7:58 PM - +91 94596 89021: Thank You !
+6/12/24, 8:09 AM - DSDebanjanPhD: Were TCL commands covered in the SQL class?
+6/12/24, 8:09 AM - +91 99208 38811: I don't think so
+6/12/24, 8:10 AM - +91 99872 93148: It was
+6/12/24, 8:10 AM - +91 99872 93148: Covered
+6/12/24, 8:10 AM - DSDebanjanPhD: When?
+6/12/24, 8:10 AM - +91 99208 38811: I was wondering if TCL has covered. We have to check later
+6/12/24, 8:11 AM - DSDebanjanPhD: Was savepoint covered in the class? I don't think so.
+6/12/24, 8:12 AM - +91 96328 88173: Yes, covered
+6/12/24, 8:12 AM - DSDebanjanPhD: Which class? Could you please tell me the date?
+6/12/24, 8:14 AM - +91 99872 93148: I will search and tell you bro
+6/12/24, 8:21 AM - +91 93487 59266: I think savepoint was not covered 
+Only commit,Rollback and begin transaction.
+6/12/24, 8:23 AM - +91 96328 88173: Savepoint was covered. I remember it.. for few mins, its a small topic <This message was edited>
+6/12/24, 8:24 AM - 🇮🇳DSDrSheshadriSurgeon: It was covered
+6/12/24, 8:25 AM - +91 93487 59266: It’s fine.i will check @919632888173
+6/12/24, 8:48 AM - +91 98214 28663: Can anyone please share the SQL file of class 15 & 16??? I can't find it on the Google drive link that I have
+6/12/24, 8:55 AM - DSDebanjanPhD: ASSIGNMENT2-12JUNE2024.sql (file attached)
+ASSIGNMENT2-12JUNE2024.sql
+6/12/24, 8:55 AM - DSDebanjanPhD: assignment1-12jume2024.sql (file attached)
+assignment1-12jume2024.sql
+6/12/24, 9:02 AM - +91 99208 38811: Thanks bro
+6/12/24, 9:03 AM - DSDebanjanPhD: Someone please share SQL files Demo 15 and 16
+6/12/24, 9:03 AM - +91 99208 38811: Balgeet sirs?
+6/12/24, 9:04 AM - DSDebanjanPhD: Yes
+6/12/24, 9:05 AM - +91 99208 38811: 15 and 16 means India zone or EST
+6/12/24, 9:06 AM - +91 99208 38811: cuz I have till 15 EST
+6/12/24, 9:06 AM - DSDebanjanPhD: Please share the 14 and 15 EST files
+6/12/24, 9:07 AM - +91 99208 38811: Demo 14 05-06-2024.sql (file attached)
+Demo 14 05-06-2024.sql
+6/12/24, 9:07 AM - +91 99208 38811: Demo 15 06-06-2024.sql (file attached)
+Demo 15 06-06-2024.sql
+6/12/24, 9:07 AM - +91 99208 38811: I think I don't have 16 file
+6/12/24, 9:08 AM - DSDebanjanPhD: OK
+6/12/24, 9:08 AM - +91 98214 28663: Thank you 🙏🙏
+6/12/24, 9:09 AM - +91 99208 38811: This message was deleted
+6/12/24, 9:10 AM - +91 99208 38811: I don't think there is any 16 class
+6/12/24, 9:10 AM - DSDebanjanPhD: Accha
+6/12/24, 9:12 AM - +91 98214 28663: You're right
+6/12/24, 12:56 PM - +91 70220 04861: Do we have to do complete non-mandatory assignments too?
+6/12/24, 1:10 PM - +91 87000 89812: Marks will be added of mandatory assignment only
+6/12/24, 1:11 PM - +91 87000 89812: These assignments are for practice only
+6/12/24, 1:13 PM - +91 83104 72821: No mandatory assignments means case study??
+6/12/24, 1:46 PM - +91 87000 89812: I think only one case study is mandatory
+6/12/24, 2:06 PM - +91 70220 04861: I am asking about basic sql, theory kind of questions. Case study and module wise assignments are mandatory
+6/12/24, 3:49 PM - +91 96328 88173: Yes
+6/12/24, 3:50 PM - +91 96328 88173: 3 assignments and 1 case study are mandatory. Others are non-mandatory and for practice purposes. Marks won’t added for non-mandatory assignments
+6/12/24, 3:58 PM - +91 70220 04861: Ok... thanks
+6/12/24, 7:58 PM - +91 95353 22443: Hi, Need explaination how 2 inner joins works?
+6/12/24, 8:04 PM - +91 96328 88173: Inner join gives results of only the matchee records
+6/12/24, 8:07 PM - +91 95353 22443: Yes, how about 2 inner joins ? 3 tables
+6/12/24, 8:09 PM - +91 96328 88173: Yes
+6/13/24, 7:25 AM - +91 81234 33626: Can anyone send me the LMS Portal link where we can find the live recordings
+6/13/24, 7:26 AM - DSDebanjanPhD: lms.intellipaat.com
+6/13/24, 9:01 AM - 🇮🇳DSDrSheshadriSurgeon: Can some one post here today's class assignment 2,3,4 document. Tnq
+6/13/24, 9:18 AM - Bhagavan: SQL-Mandatory-Assignment-1-1.pdf (file attached)
+SQL-Mandatory-Assignment-1-1.pdf
+6/13/24, 9:18 AM - Bhagavan: SQL-Mandatory-Assignment-2-1.pdf (file attached)
+SQL-Mandatory-Assignment-2-1.pdf
+6/13/24, 9:18 AM - Bhagavan: SQL-Mandatory-Assignment-3-1.pdf (file attached)
+SQL-Mandatory-Assignment-3-1.pdf
+6/13/24, 9:19 AM - Bhagavan: SQL-Case-Study-1-1.pdf (file attached)
+SQL-Case-Study-1-1.pdf
+6/13/24, 9:19 AM - Bhagavan: SQL-Case-Study-2-1.pdf (file attached)
+SQL-Case-Study-2-1.pdf
+6/13/24, 9:20 AM - 🇮🇳DSDrSheshadriSurgeon: Not these. Today's class bhavika shared docs at the end
+6/13/24, 3:51 PM - +91 89032 09082: Hi
+Did someone deleted the notes from google drive? I am unable to view any of those files. If anyone has all the notes could you please zip it and send it to me? It will be really helpful
+6/13/24, 3:52 PM - +91 99208 38811: SQL Demo class.zip (file attached)
+SQL Demo class.zip
+6/13/24, 3:57 PM - +91 89032 09082: Thank you so much
+6/13/24, 3:58 PM - +91 99208 38811: u'r welcome
+6/13/24, 4:03 PM - +91 70939 64349: thank you
+6/13/24, 4:04 PM - DSDebanjanPhD: Were SET operators covered in the SQL classes?
+6/13/24, 4:04 PM - +91 96328 88173: Yes.
+6/13/24, 4:05 PM - +91 99208 38811: set operators as in update and declare? <This message was edited>
+6/13/24, 4:05 PM - +91 96328 88173: Union, union all , intersect are called set operators
+6/13/24, 4:05 PM - +91 99208 38811: okay
+6/13/24, 4:05 PM - +91 99208 38811: yeah covered
+6/13/24, 4:07 PM - +91 96328 88173: PTT-20240613-WA0033.opus (file attached)
+6/13/24, 4:07 PM - +91 96328 88173: PTT-20240613-WA0034.opus (file attached)
+6/13/24, 4:18 PM - DSDebanjanPhD: So, the UNION ALL operator supports duplicate values where the UNION operator does not.
+6/13/24, 4:34 PM - +91 99208 38811: yes
+6/13/24, 4:51 PM - +91 96328 88173: Yes
+6/13/24, 8:21 PM - +91 95353 22443: This message was deleted
+6/14/24, 7:31 AM - +91 87000 89812: Is there any jomato data or we need to write query only?
+6/14/24, 7:40 AM - +91 97183 49041: Hi All, request you to please share the video if possible to export data from mssql studio.
+6/14/24, 8:08 AM - +91 95353 22443: IMG-20240614-WA0003.jpg (file attached)
+6/14/24, 8:18 AM - +91 89202 67303: ASSIGNMENT5.sql (file attached)
+ASSIGNMENT5.sql
+6/14/24, 8:18 AM - +91 89202 67303: ASSIGNMENT6.sql (file attached)
+ASSIGNMENT6.sql
+6/14/24, 8:32 AM - +91 95353 22443: Can Any one share the Assignement 2 , 1st answer please
+-1. Create a user-defined functions to stuff the Chicken into ‘Quick Bites’. Eg: ‘Quick Chicken Bites’.
+6/14/24, 9:04 AM - Bhagavan: --1. Create a user-defined functions to stuff the Chicken into ‘Quick Bites’. Eg: ‘Quick Chicken Bites’.
+--2. Use the function to display the restaurant name and cuisine type which has the maximum number of rating.
+	CREATE OR ALTER PROCEDURE Quick_Chicken_Bytes
+	@tstr varchar(64)
+	AS
+		SELECT STRING_AGG(value, ' Chiken ') AS concatenatedString
+		FROM STRING_SPLIT (@tstr , ' ')
+		
+		SELECT top 1 RestaurantName, CuisineType, Rating FROM Restaurants ORDER BY Rating DESC
+	GO
+	exec Quick_Chicken_Bytes 'Quick Bytes'
+6/14/24, 9:16 AM - +91 95353 22443: @919902096750 this approarch is wrong?
+6/14/24, 10:19 AM - +91 93487 59266: This message was deleted
+6/14/24, 10:23 AM - Bhagavan: I am assuming, you are saying the solution is wrong.
+Thank you.
+Please point me to correct solution.
+6/14/24, 10:25 AM - +91 95353 22443: Nope, I'm asking if my approach is wrong? And I'm not talking about your solution.
+6/14/24, 10:28 AM - ~ Dipraj Jena pinned a message
+6/14/24, 10:28 AM - Bhagavan: Ohh Ok, let recheck
+6/14/24, 11:32 AM - +91 99208 38811: The approach correct but not gonna help all scenarios: For example if given values are as below
+
+1> Quick Bites, Pizza
+2> Quick Bites
+3> Pizza
+
+Your outcome will be
+1> Quick Bites, Pizza
+2> Quick Chicken Bites
+3> Pizza
+6/14/24, 11:32 AM - +91 95353 22443: Ok
+6/14/24, 12:09 PM - Bhagavan: IMG-20240614-WA0010.jpg (file attached)
+Took me some time in identifying the specific functions
+6/14/24, 12:11 PM - +91 99208 38811: This might not work with 1st example
+6/14/24, 12:12 PM - +91 99208 38811: I mean if Pizza comes 1st
+6/14/24, 12:12 PM - Bhagavan: You mean a string with single word?
+6/14/24, 12:12 PM - Bhagavan: How to insert?
+6/14/24, 12:13 PM - +91 99208 38811: I mean "Pizza, Quick Bites"
+6/14/24, 12:13 PM - +91 99208 38811: check values in 'RestaurantType' column
+6/14/24, 12:13 PM - +91 99208 38811: in jomato table
+6/14/24, 12:13 PM - Bhagavan: IMG-20240614-WA0011.jpg (file attached)
+6/14/24, 12:14 PM - +91 99208 38811: okay
+6/14/24, 12:14 PM - +91 99208 38811: then it's working
+6/14/24, 12:16 PM - +91 99208 38811: Sorry it's not working. see it coming Pizza, Chicken Quick Bites however it should be Pizza, Quick Chicken Bites
+6/14/24, 12:17 PM - Bhagavan: You mean, insertion should happen before last word of the input string?
+6/14/24, 12:18 PM - +91 99208 38811: I mean only if the column value contains char sequence 'Quick Bites' then it should convert to 'Quick Chicken Bites'
+6/14/24, 12:18 PM - +91 99208 38811: That's what the question was, am I right?
+6/14/24, 12:20 PM - Bhagavan: Question doesn't reflect this much complexity, it says a string 'Quick Bytes'
+
+In any case, that is also possible, Just need to spend some more time
+6/14/24, 12:24 PM - +91 99208 38811: Yes, but if you check the value in 'RestaurantType' column of Jomato table you will find 'Quick Bites' in their
+6/14/24, 12:26 PM - +91 99208 38811: I used 'PATINDEX' to find the index of 'Quick Bites'
+6/15/24, 8:36 AM - +91 97397 59127: IMG-20240615-WA0016.jpg (file attached)
+Guys i'm getting this error can someone help me out please
+6/15/24, 9:12 AM - Bhagavan: Make sure the query is working fine, then you can build 'view' on top of it <This message was edited>
+6/15/24, 9:44 AM - +91 97397 59127: Query is working but when i try to build view it’s giving error
+6/15/24, 10:03 AM - Bhagavan: IMG-20240615-WA0029.jpg (file attached)
+As you said *This does not work*
+6/15/24, 10:04 AM - Bhagavan: IMG-20240615-WA0028.jpg (file attached)
+*But this works*
+6/15/24, 10:04 AM - Bhagavan: Error messages said *Column names can't be duplicate*
+If you have column name same in both the tables then it is giving error
+6/15/24, 10:05 AM - Bhagavan: We can't have duplicate columns *in the output*
+6/15/24, 10:11 AM - +91 97397 59127: Okay got it….. thanks
+6/15/24, 10:11 AM - Bhagavan: Thank you to you, I learnt while resolving it 🙏
+6/15/24, 11:08 AM - 🇮🇳DSDrSheshadriSurgeon: IMG-20240615-WA0031.jpg (file attached)
+6/15/24, 11:09 AM - 🇮🇳DSDrSheshadriSurgeon: Request guidance. I am getting this error while dropping databases although I am in master database
+6/15/24, 11:18 AM - +91 72057 52124: IMG-20240615-WA0032.jpg (file attached)
+Every time I m trying to drop db I m getting this error,any idea what I m doing wrong
+6/15/24, 11:19 AM - +91 99872 93148: You are using this database for some running query
+6/15/24, 11:19 AM - +91 99872 93148: Try closing all other queries and try this again
+6/15/24, 11:21 AM - +91 72057 52124: No just created new db ... cannot see anywhere I m using...can you please share how to close if anywhere it is running
+6/15/24, 11:23 AM - +91 72057 52124: Got it,after dropping all tables inside the db I abled to drop db..thank you @919987293148
+6/15/24, 12:45 PM - DSDebanjanPhD: During performing the mandatory assignment 1, I am getting an error while adding a foreign key to the Customer table referencing the Salesman table using the SalesmanId column. This is because there are a few non matching values in the SalesmanId column between the two tables. Could anyone please help me out with this one?
+6/15/24, 12:45 PM - 🇮🇳DSDrSheshadriSurgeon: IMG-20240615-WA0037.jpg (file attached)
+6/15/24, 12:46 PM - 🇮🇳DSDrSheshadriSurgeon: Can someone help with this question querry. Do we hv to use alias and join
+6/15/24, 1:25 PM - Bhagavan: *As per my understanding*
+List all those columns with that condition.
+Does not really matter the column names
+6/15/24, 1:26 PM - 🇮🇳DSDrSheshadriSurgeon: Ok
+6/15/24, 1:26 PM - 🇮🇳DSDrSheshadriSurgeon: I got it
+6/15/24, 1:27 PM - Bhagavan: IMG-20240615-WA0042.jpg (file attached)
+6/15/24, 1:28 PM - Bhagavan: Looks like your question
+6/16/24, 4:28 PM - +91 87000 89812: can anyone please tell me can we add primary key in existing table
+6/16/24, 4:29 PM - +91 87000 89812: Like question no 2 in assignment 1
+6/16/24, 4:36 PM - Bhagavan: Theoretically yes, provided column doesn't have duplicate values
+
+I need to experiment though
+6/16/24, 4:37 PM - +91 87000 89812: So we have to write alter
+6/16/24, 4:37 PM - +91 87000 89812: Query
+6/16/24, 4:38 PM - +91 87000 89812: When am using alter its showing error
+6/16/24, 4:39 PM - +91 87000 89812: IMG-20240616-WA0011.jpg (file attached)
+6/16/24, 4:39 PM - +91 87000 89812: I just wrote the query here
+6/16/24, 5:21 PM - Bhagavan: What is the error?
+6/16/24, 5:22 PM - +91 87000 89812: I got it bro
+6/16/24, 5:22 PM - +91 87000 89812: We have to use alter here
+6/16/24, 5:22 PM - +91 87000 89812: Can u tell me
+6/16/24, 5:23 PM - +91 87000 89812: When i was using primary key it was showing errory
+6/16/24, 5:23 PM - +91 87000 89812: But when i write not null
+6/16/24, 5:23 PM - +91 87000 89812: It was correct
+6/16/24, 5:25 PM - +91 87000 89812: Can u tell me why
+6/16/24, 5:46 PM - Bhagavan: Can you please paste the error
+6/16/24, 5:47 PM - +91 87000 89812: IMG-20240616-WA0012.jpg (file attached)
+6/16/24, 7:03 PM - 🇮🇳DSDrSheshadriSurgeon: Primary key = unique + not null
+6/16/24, 10:54 PM - +91 70057 91429: Please tell me the email id to which we are suppose to sent our non-mandatory assignments.
+6/16/24, 11:19 PM - +91 93487 59266: support@intellipaat.com
+6/17/24, 12:24 AM - +91 70057 91429: Thank you
+6/17/24, 9:50 AM - +91 93487 59266: You are welcome
+6/17/24, 10:08 AM - +91 99403 89227: Hi guys when is the last day to submit the assignments ?
+6/17/24, 11:01 AM - +91 93487 59266: In August 16 or 14
+6/17/24, 6:08 PM - 🇮🇳DSDrSheshadriSurgeon: Request someone to send baljeet s demo 11 file. Tnq
+6/17/24, 6:08 PM - +91 99208 38811: .
+6/17/24, 6:09 PM - 🇮🇳DSDrSheshadriSurgeon: Tnq
+6/17/24, 7:43 PM - +91 87541 39431: Anyone got tomorrow's class link?🤔
+6/17/24, 7:46 PM - +91 99522 63645: https://us02web.zoom.us/webinar/register/WN_nDprqMw9S3uvNUkrTUhN1A
+6/17/24, 8:55 PM - +91 70057 91429: IMG-20240617-WA0009.jpg (file attached)
+Anyone Please help me resolve this error
+6/17/24, 8:56 PM - +91 96328 88173: Customer table has 1 or more entries which are not present in the salesman table
+6/17/24, 8:59 PM - +91 70057 91429: Ohk..yes they are different..so how m suppose to resolve it
+6/17/24, 9:00 PM - +91 96328 88173: First delete the unmatched entries from child table (customer ) and then create foreign key constraint
+6/17/24, 9:01 PM - +91 70057 91429: Ok..will try
+6/18/24, 7:10 AM - +91 95353 22443: Hi, please send today's zoom link
+6/18/24, 7:13 AM - +91 98204 18414: https://us02web.zoom.us/webinar/register/WN_nDprqMw9S3uvNUkrTUhN1A
+6/18/24, 7:13 AM - +91 95353 22443: Thank you
+6/18/24, 4:27 PM - +91 87541 39431: Hi....in assignment 3(mandatory)....last question about triggers....how to send email in sql?🤔🤔
+6/18/24, 5:08 PM - +91 81234 33626: Are we able to use SSMS on MacBook?
+6/18/24, 6:34 PM - +91 87000 89812: Can anyone please tell me from where i can get jomato data
+6/18/24, 7:26 PM - +91 70057 91429: You hve to dwnload frm the dwnload attachment shown in the window whn you opend the respectv assignmt
+6/18/24, 7:27 PM - +91 87000 89812: That is question only
+6/18/24, 7:27 PM - +91 87000 89812: But where is data in this
+6/18/24, 7:27 PM - +91 87000 89812: Like customername order
+6/18/24, 7:28 PM - +91 70057 91429: When you click on the download attachment you will find two files
+6/18/24, 7:28 PM - +91 87000 89812: Ok let me check again
+6/18/24, 7:28 PM - +91 87000 89812: IMG-20240618-WA0013.jpg (file attached)
+6/18/24, 7:28 PM - +91 87000 89812: Showing this only
+6/18/24, 7:29 PM - +91 70057 91429: IMG-20240618-WA0014.jpg (file attached)
+6/18/24, 7:29 PM - +91 87000 89812: Okay got it
+6/18/24, 7:29 PM - +91 70057 91429: Click here
+6/18/24, 7:29 PM - +91 87000 89812: Thnks
+6/18/24, 7:29 PM - +91 87000 89812: IMG-20240618-WA0015.jpg (file attached)
+6/18/24, 7:29 PM - +91 97397 59127: IMG-20240618-WA0016.jpg (file attached)
+anyone help me to resolve this error
+6/18/24, 7:29 PM - +91 87000 89812: I need to download jomato
+6/18/24, 7:30 PM - +91 70057 91429: Yes
+6/18/24, 7:30 PM - +91 70057 91429: And import to sql
+6/18/24, 7:30 PM - +91 87000 89812: Okay thnk you
+6/18/24, 7:30 PM - +91 97397 59127: .
+6/18/24, 7:31 PM - +91 87000 89812: Yes
+6/18/24, 7:32 PM - +91 97397 59127: Wht's the mistake there?
+6/18/24, 7:32 PM - +91 87000 89812: IMG-20240618-WA0017.jpg (file attached)
+6/18/24, 7:32 PM - +91 87000 89812: .
+6/18/24, 7:33 PM - +91 70057 91429: Give references..
+Mine also having problem while applying fk
+6/18/24, 7:33 PM - +91 97397 59127: wht is that with nocheck??
+6/18/24, 7:33 PM - +91 97397 59127: ok will try
+6/18/24, 7:38 PM - +91 70057 91429: Thanks yaar you just solve my problem also..applying fk
+6/18/24, 7:38 PM - +91 97397 59127: Thank you guys got it!!
+6/18/24, 7:39 PM - +91 70057 91429: I gus you forgot to apply pk for 2(a)
+6/18/24, 7:40 PM - +91 87000 89812: Yes i have corrected that
+6/18/24, 7:40 PM - +91 87000 89812: Removed nut noll
+6/18/24, 7:41 PM - +91 70057 91429: No..it should be not null n apply pk
+6/18/24, 7:42 PM - +91 87000 89812: Okay
+6/18/24, 7:42 PM - +91 87000 89812: Got it
+6/18/24, 7:52 PM - Bhagavan: IMG-20240618-WA0018.jpg (file attached)
+6/18/24, 9:05 PM - +91 87000 89812: IMG-20240618-WA0020.jpg (file attached)
+6/18/24, 9:05 PM - +91 87000 89812: Can anyone please help me in this
+6/18/24, 9:05 PM - +91 87000 89812: Am unable to import this
+6/18/24, 9:05 PM - +91 87000 89812: Jomato file
+6/18/24, 9:06 PM - +91 87000 89812: IMG-20240618-WA0021.jpg (file attached)
+6/18/24, 9:06 PM - +91 87000 89812: Getting this error
+6/18/24, 9:23 PM - +91 70057 91429: Task>import flat files>>>✓allow null n change RestuarantName to nvarchar(MAX)>>finish
+6/18/24, 9:23 PM - +91 87000 89812: Ok bro
+6/18/24, 9:26 PM - +91 87000 89812: Thnk u so much bro
+6/18/24, 9:26 PM - +91 87000 89812: Can tell me why it was showing error
+6/18/24, 9:29 PM - +91 70057 91429: Bhavika told about this in class
+6/18/24, 9:29 PM - +91 70057 91429: U welcome
+6/18/24, 9:30 PM - +91 87000 89812: Ok
+6/19/24, 6:48 AM - +91 83104 72821: Hi Good morning all
+
+Can anyone share assignment 2 please. Got mail saying its not correct so just need check where am going wrong so please anyone share me correct assignment.
+6/19/24, 6:54 AM - 🇮🇳DSDrSheshadriSurgeon: Plz share yesterday's class file. Tnq
+6/19/24, 7:02 AM - ~ Aalekh pinned a message
+6/19/24, 7:06 AM - +91 99169 92410: Is there any class today. There is no meeting invite
+6/19/24, 8:29 AM - +91 95353 22443: IMG-20240619-WA0000.jpg (file attached)
+I'm getting warning while importing fact table, check marked the null column as well
+6/19/24, 12:57 PM - +91 83104 72821: Can someone help on this please
+6/20/24, 6:04 AM - +91 79780 03826: Hi can any one share last class case study1 cav file
+6/20/24, 7:00 AM - 🇮🇳DSDrSheshadriSurgeon: Plz share case study 1 and 2 files if any one has. Tnq
+6/20/24, 7:02 AM - Bhagavan: Here
+6/20/24, 7:03 AM - +91 90662 25219: Can someone share today's class link
+6/20/24, 7:06 AM - +91 95353 22443: Please find the below link to join the session:   
+
+
+
+URL: https://us02web.zoom.us/webinar/register/WN_nDprqMw9S3uvNUkrTUhN1A
+
+Access code: 898 2724 4499
+6/20/24, 7:09 AM - 🇮🇳DSDrSheshadriSurgeon: The class file link.
+6/20/24, 7:09 AM - 🇮🇳DSDrSheshadriSurgeon: Case study 1 &2 class file link
+6/20/24, 7:24 AM - +91 87000 89812: Till now we have completed 2 case studies?
+6/20/24, 7:28 AM - +91 95353 22443: We completed 1
+6/20/24, 7:30 AM - +1 (727) 776-9856: Can anyone share yesterdays class Casestudy 1 sql script
+6/20/24, 7:35 AM - +91 95353 22443: casestudy1(comp).sql (file attached)
+casestudy1(comp).sql
+6/20/24, 7:49 AM - 🇮🇳DSDrSheshadriSurgeon: Tnq
+6/20/24, 9:17 AM - +91 87000 89812: I appreciate you @919902096750
+6/20/24, 9:18 AM - +91 87000 89812: Thank you so much for raising this concern
+6/20/24, 9:25 AM - +91 96328 88173: I was away for 10 mins and some discussion was going on just before the session ended. What is it about ?
+6/20/24, 10:17 AM - Bhagavan: I just conveyed the trainer, doubt clearing *is not about* ONLY IMPORTING CSV and Creating tables.
+As of I remember we did at-least 10 sessions on importing ......Disappointing "*doubt clearing*" sessions
+6/20/24, 10:18 AM - Bhagavan: Good that Baljeet was excellent
+6/20/24, 10:48 AM - +91 96328 88173: What questions she couldn’t answer ?
+6/20/24, 10:58 AM - +91 96328 88173: Or she denied to answer ?
+6/20/24, 8:01 PM - +91 95353 22443: CASE STUDY 2: JOINS : 
+--2. Display employees with their designations.
+Can I have solution please
+6/20/24, 8:05 PM - Bhagavan: IMG-20240620-WA0019.jpg (file attached)
+6/20/24, 8:07 PM - +91 95353 22443: Thank you
+6/20/24, 8:07 PM - Bhagavan: Purposefully I shared the screenshot, so that you get some practice while typing
+6/20/24, 8:15 PM - Bhagavan: *Case Study-2, Subqueries section.*
+--10. Find out the employees who earn greater than the average salary for their department.
+
+This is the only question I could not build the answer
+6/20/24, 8:15 PM - Bhagavan: IMG-20240620-WA0021.jpg (file attached)
+*The schema of the tables*
+6/20/24, 8:28 PM - +91 93487 59266: IMG-20240620-WA0022.jpg (file attached)
+6/20/24, 8:32 PM - Bhagavan: Is it possible to share the results of the query?
+6/20/24, 8:33 PM - +91 93487 59266: IMG-20240620-WA0023.jpg (file attached)
+6/20/24, 8:36 PM - Bhagavan: Correct me if my understanding is wrong.
+
+I need to list all employees from all departments who salary is greater than avg salary from their department
+6/20/24, 8:37 PM - Bhagavan: Greater than or equal..
+6/20/24, 8:39 PM - Bhagavan: Can you use this condition
+6/20/24, 8:39 PM - +91 93487 59266: IMG-20240620-WA0024.jpg (file attached)
+6/20/24, 8:41 PM - Bhagavan: Looks valid for me.
+Let me cross check tomorrow, I have already logged off
+
+Thank you 🙏
+6/20/24, 8:42 PM - +91 93487 59266: Wc 👊@919902096750
+6/21/24, 7:08 AM - ~ Aalekh pinned a message
+6/21/24, 8:17 AM - +91 93487 59266: project.sql (file attached)
+project.sql
+6/21/24, 8:17 AM - ~ Dipraj Jena pinned a message
+6/21/24, 9:02 AM - +91 70057 91429: Please kindly share the casestudy 2(yesterday'class) notes also
+6/21/24, 9:02 AM - +91 70057 91429: Yesterday's*
+6/21/24, 9:11 AM - +91 93487 59266: case study2.sql (file attached)
+case study2.sql
+6/21/24, 9:11 AM - +91 93487 59266: casestudy1(comp).sql (file attached)
+casestudy1(comp).sql
+6/21/24, 9:11 AM - ~ Dipraj Jena pinned a message
+6/21/24, 9:43 AM - +91 70057 91429: Thank you so much
+6/21/24, 9:44 AM - +91 93487 59266: Welcome
+6/21/24, 11:37 AM - +91 89202 67303: THIS ERROR CODE SHOWING WHAT THIS MEANS Error 1781 Column already has a DEFAULT bound to it.
+6/21/24, 12:02 PM - +91 89202 67303: today's class yet not available in  lms portal  ?
+6/21/24, 12:07 PM - +91 93487 59266: It takes time to upload
+6/21/24, 12:31 PM - +91 89202 67303: ok
+6/21/24, 5:44 PM - +91 81234 33626: Any Mac users here?
+6/21/24, 5:51 PM - +91 95353 22443: This message was deleted
+6/21/24, 6:55 PM - Bhagavan: Thank you Dipraj.
+Its working
+6/21/24, 7:03 PM - +91 93487 59266: Good @919902096750 👍
+6/23/24, 11:37 AM - Bhagavan: This document from SathyaPrakash helps
+6/23/24, 9:11 PM - +91 72057 52124: IMG-20240623-WA0038.jpg (file attached)
+Hi all,did anyone resolve questions 4,5 from mandatory assignment 2.i am not able to get it..will you able to share
+6/23/24, 9:30 PM - +91 93487 59266: NO.4 select * , 
+CEILING(rating) as 'CEILING' ,
+FLOOR(RATING) AS 'FLOOR' ,
+ABS(RATING) AS 'ABSOLUTE' , 
+GETDATE() as 'CURRENT DATE' ,
+YEAR(GETDATE()) AS 'YEAR' ,
+DATENAME(MONTH , GETDATE()) AS 'MONTH' ,
+DAY(GETDATE()) AS 'DAY'
+from jomato
+6/23/24, 9:31 PM - +91 93487 59266: NO.5  
+select restauranttype , 
+sum(averagecost) as 'AVERAGE COST'
+from jomato 
+group by rollup(RestaurantType)
+6/23/24, 9:31 PM - +91 72057 52124: Thank you Dipraj
+6/23/24, 9:31 PM - +91 93487 59266: Wc buddy
+6/24/24, 11:45 AM - +91 87541 39431: Hi anyone has notes of the project topic conducted on friday?
+6/24/24, 12:14 PM - +91 93487 59266: ..
+6/24/24, 5:07 PM - +91 93487 59266: *Intellipaat : Online Training Meeting Invite*
+Dear Learner,
+
+This is a gentle reminder of your session this week. Please find the below details to join the session:
+
+Course: Python
+Trainer Name: Intellipaat Team
+Date & Time:  US Learner -  24th June  -  27th June  - Time - 8:30 PM CST.   INDIAN Learner -  25th June  -  28th June  - Time - 7 AM IST (GMT +5:30).
+Session Link: URL: https://us02web.zoom.us/webinar/register/WN_3tHLfWf0QzyEuXZKxl69oA  Access code: 878 6253 9609
+Comment: This is to inform you that your MS SQL module has been Over. Therefore
+
+Important Notice: Your link will remain the same until further notice.
+
+Thank You
+6/24/24, 5:27 PM - +91 87541 39431: Thank u🙂
+6/24/24, 5:28 PM - +91 93487 59266: Wc
+6/25/24, 8:09 AM - +91 95792 15739: Please send today's pdf
+6/25/24, 8:09 AM - Bhagavan: I recommend to use VSCode, very very very simple and light weight.
+No Anaconda, Jupyter required.  They are complex
+6/25/24, 8:10 AM - Bhagavan: *For a tutor it is convenient to use Jupyter*
+6/25/24, 8:11 AM - +91 96328 88173: even for data science projects? to download packages ?
+6/25/24, 8:12 AM - +91 96328 88173: Ananconda Installation.pdf (file attached)
+Ananconda Installation.pdf
+6/25/24, 8:12 AM - +91 95792 15739: Thank you
+6/25/24, 8:12 AM - Bhagavan: Yes,
+6/25/24, 8:13 AM - Bhagavan: Jupyter will be used only short period, real time it doesn't help
+6/25/24, 8:13 AM - Bhagavan: Anakonda is heavy weight
+6/25/24, 8:14 AM - Bhagavan: very slow
+6/25/24, 8:14 AM - +91 96328 88173: ok
+6/25/24, 8:15 AM - +91 98214 28663: Can you share a link to a video which will show the proper way to install vs code???
+6/25/24, 8:16 AM - +91 99872 93148: PDF is wrong, don’t follow step 1
+6/25/24, 8:17 AM - Bhagavan: Very simple straight forward,
+Goto Windows store --> Search VSCode --> Install
+6/25/24, 8:17 AM - +91 98214 28663: It's available in the windows store?? <This message was edited>
+6/25/24, 8:17 AM - +91 98214 28663: Thank you
+6/25/24, 8:18 AM - Bhagavan: It is same in Linux, Windows, WSL
+6/25/24, 8:26 AM - +91 98117 27061: Imo Replit is the best sir, online editor and very easy to use
+6/25/24, 8:26 AM - +91 98117 27061: No delay or lagging problem
+6/25/24, 8:34 AM - Bhagavan: They are ok at the beginning, storing and managing files becomes difficult
+6/25/24, 8:36 AM - Bhagavan: Sooner you will be working with your own files
+6/25/24, 8:36 AM - Bhagavan: ... Python files
+6/25/24, 8:53 AM - +91 98117 27061: Oh!
+6/25/24, 9:39 AM - +91 89766 89425: Yes.. mostly tutors use jupyter notebook.. I think due to its look and feel it is easier for them to make others understand
+6/25/24, 10:01 AM - Bhagavan: Obsoletely
+6/25/24, 10:09 AM - +91 97397 59127: IMG-20240625-WA0005.jpg (file attached)
+The file i downloaded is like this!
+6/25/24, 10:12 AM - +91 98117 27061: STK-20240625-WA0007.webp (file attached)
+6/25/24, 10:20 AM - Bhagavan: Exactly, Welcome to Jupyter's Den
+6/25/24, 10:22 AM - Bhagavan: Remember, you environment should be Linux all the time.
+Thats the whole reason the first session in this course *is setting up Linux*
+6/25/24, 10:24 AM - Bhagavan: I recommend to have below environment
+
+1. Ubuntu 22.04 on WSL - OS 
+2. Python on Linux (Ubuntu) - Running code in Linux
+3. VSCode on Windows - To write code
+
+This setup helps you till end of this course
+6/25/24, 10:25 AM - Bhagavan: All above setup takes *maximum of 15 min*
+6/25/24, 11:15 AM - +91 76848 79100: You need to upload this file in your jupiter notebook or Google colab then you can able to read .
+6/25/24, 3:16 PM - +91 97397 59127: Okay i will do it

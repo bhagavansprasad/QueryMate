@@ -40,3 +40,11 @@ file
     ```Shell
     ngrok http http://localhost:8501
     ```
+
+### TODO
+1. Image search
+1. Replies are not upto the mark
+1. Works on offline messages of WhatsApp
+1. Optimization
+1. User different LLMs to make the search better
+1. Port it to [Hugging Interface](https://huggingface.co/)

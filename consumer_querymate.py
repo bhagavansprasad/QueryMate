@@ -4,27 +4,21 @@ import chromadb
 import sys
 from chromadb.utils import embedding_functions
 import time
-import json
 
-sys.path.append("/home/bhagavan/training/aura-llm/00-utils/")
-from debug_helper import whereami
-
-collection = None
-vectdb_name = "DsVectorDB-Media"
-collection_name = "datascience-Media"
+from debug_utils import whereami
+from config import vectdb_name
+from config import collection_name
+from config import collection
 
 def client_query_data(collection, query, result_count=2):
-    # whereami(f"Query :{query}")    
-    print(f"\nQuery :{query}")    
+    print(f"\nQuery :{query}")
     details = ['distances', 'metadatas', 'documents']
     results = collection.query(query_texts = query, n_results=result_count, include=details)
+    # whereami(f"results :{results}")
     
     return(results)
 
-
 def server_init_croma_db(vectdb_name, coll_name):
-    # whereami()
-
     client = chromadb.PersistentClient(path=vectdb_name)
     
     sentence_transformer_ef = embedding_functions.SentenceTransformerEmbeddingFunction(model_name="all-mpnet-base-v2")
@@ -36,29 +30,23 @@ def dump_collection_details(collection):
     whereami(f"collection count :{count}")
 
     time.sleep(5)
-
-    print(collection.get())
     print()
 
 def dump_results(reply):
-    # jdata = json.dumps(reply)
-    # print(jdata)
-
     ids = reply["ids"][0]
     metadata = reply["metadatas"][0]
     documents = reply["documents"][0]
-
-    # whereami(f"ids       :{ids}")
-    # whereami(f"metadata  :{metadata}")
-    # whereami(f"documents :{documents}")
+    retval = []
 
     for i, id in enumerate(ids):
         datetime = f"{metadata[i]['date']} {metadata[i]['time']}"
         author = metadata[i]['Author']
         reply = documents[i]
         
-        print(f"\t{id}: {author} ({datetime}) :~$ {documents[i]}")
-        yield f"{author} ({datetime}) :~$ {documents[i]}"
+        print(msg := f"\t{author} ({datetime}) :~$ {documents[i]}")
+        retval.append(msg)
+
+    return retval
 
 queries = [
     {'query' : ['quick bytes solution'], 'qcount' : 10},
@@ -83,22 +71,14 @@ def g_client_query_data(query):
         collection = server_init_croma_db(vectdb_name, collection_name)
         
     results = client_query_data(collection, query, result_count=10)
-    retval = dump_results(results)
-    reply = list(retval)
-    print(reply)
-    print()
-    return reply
+    return dump_results(results)
 
 def main():
     collection = server_init_croma_db(vectdb_name, collection_name)
     
-    # dump_collection_details(collection)
-    
     for q in queries:
         reply = client_query_data(collection, q['query'], result_count=q['qcount'])
-        retval = dump_results(reply)
-        print(list(retval))
-        print()
+        dump_results(reply)
         
 if (__name__ == "__main__"):
     main()

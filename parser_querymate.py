@@ -17,9 +17,6 @@ def parse_whatsapp_chat(file_path):
 
     chat_data = []
     for i, line in enumerate(lines):
-        # Regular expression to match the pattern of WhatsApp messages
-        # 5/8/24, 9:32 AM - +91 70057 91429: How many of you opted for Executive PG certification in AI and DS
-        # print(i)
         if ((i+1) % 100 == 0):
             print(f"Parsed {i+1} lines")
             
@@ -30,7 +27,6 @@ def parse_whatsapp_chat(file_path):
             date, time, sender, message = match.groups()
             chat_data.append([date, time, sender, message])
         else:
-            # If the line doesn't match, it might be a continuation of the previous message
             if chat_data:
                 chat_data[-1][-1] += '\n' + line.strip()
 
@@ -38,7 +34,6 @@ def parse_whatsapp_chat(file_path):
 
 def whatsapp_to_csv(txt_file, csv_file):
     chat_data = parse_whatsapp_chat(txt_file)
-    # print(chat_data)
     df = pd.DataFrame(chat_data, columns=['Date', 'Time', 'Sender', 'Message'])
     df.to_csv(csv_file, index=False)
     print(f'WhatsApp chat file {txt_file} has been converted to CSV file {csv_file}')

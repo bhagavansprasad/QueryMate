@@ -1,7 +1,6 @@
-import ollama
+# import ollama
 import streamlit as st
-# from consumer import g_client_query_data
-import consumer
+import consumer_querymate as cqm
 
 def model_response_generator():
     # stream = ollama.chat(
@@ -51,17 +50,17 @@ def streamlit_example():
         # reply = model_response_generator()
         # st.session_state["messages"].append(reply)
 
-    reply = consumer.g_client_query_data(prompt)
+    reply = cqm.g_client_query_data(prompt)
     hist_data = "'''"
     
-    print(f"reply :{reply}")
+    # print(f"reply :{reply}")
     for i, row in enumerate(reply, 1):
         d = f"{i}. {row}"
         st.markdown(d)
         hist_data += d + '\n'
 
     hist_data += "'''\n"
-    print(f"hist_data :{hist_data}")
+    # print(f"hist_data :{hist_data}")
     data = {'role': 'assistant', 'content': hist_data}
     st.session_state["messages"].append(data)
 

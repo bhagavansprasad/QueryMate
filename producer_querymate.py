@@ -7,6 +7,12 @@ import time
 
 from chromadb.utils import embedding_functions
 
+from config import vectdb_name
+from config import collection_name
+from config import csvdata
+from config import collection
+
+
 sys.path.append("/home/bhagavan/training/aura-llm/00-utils/")
 from debug_helper import whereami
 
@@ -76,13 +82,6 @@ def delete_collection_by_name(collection_name):
     return
 
 def main():
-    vectdb_name = "DsVectorDB-Media"
-    collection_name = "datascience-Media"
-    csvdata = "./data/data.csv"
-       
-    # whereami()
-    # delete_collection_by_name(collection_name)
-    
     collection = server_init_croma_db(vectdb_name, collection_name)
     producer_create_embeddings(collection, csvdata)
 

@@ -15,6 +15,7 @@ from config import collection
 
 sys.path.append("/home/bhagavan/training/aura-llm/00-utils/")
 from debug_helper import whereami
+from config import eMODEL
 
 def producer_create_embeddings(collection, csvdata, batchsize=0, queue=None):
     documents = []

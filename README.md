@@ -19,22 +19,22 @@ Example: Run below queries
 ![Alt text here](diagrams/architecture.png)
 ### How to run?
 1. Export WhatsApp messages to text file
-1. Run 'parser_querymate.py' which generates csv from text file
+1. Run 'parser-querymate.py' which generates json from text file
     ```Shell
-    python parser_querymate.py
+    python parser-querymate.py
     ```
-1. RAG csv data using 'producer_querymate.py' and store in ChromaDB
+1. RAG json data using 'producer-querymate.py' and store in ChromaDB
 file
     ```Shell
-    python producer_querymate.py
+    python producer-querymate.py
     ```
-1. Run 'consumer_querymate.py' with sample quries
+1. Run 'consumer-querymate.py' with sample quries
     ```Shell
-    python consumer_querymate.py
+    python consumer-querymate.py
     ```
-1. Run 'ui_querymate.py' UI service on localhost to communicate with CromaDB
+1. Run 'ui-querymate.py' UI service on localhost to communicate with CromaDB
     ```Shell
-    streamlit run ui_querymate.py
+    streamlit run ui-querymate.py
     ```
 1. Run ngrok and expose UI interface to cloud
     ```Shell

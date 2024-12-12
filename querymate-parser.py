@@ -71,14 +71,16 @@ def parse_attachment(content, base_path):
         return None
     
     attachment_name, _, attachment_type = match.groups()
-    return {
-        "name": os.path.join(base_path, attachment_name.strip()),
-        "type": attachment_type.strip(),
-    }
+    return os.path.join(base_path, attachment_name.strip())
+    # return {
+    #     "name": os.path.join(base_path, attachment_name.strip()),
+    #     "type": attachment_type.strip(),
+    # }
 
 
-def load_whatsapp_chat(file_path):
-    base_path =  os.path.dirname(file_path)
+def load_whatsapp_chat(file_path, attachments_path):
+    # base_path =  os.path.dirname(file_path)
+    base_path =  attachments_path
     message_start_pattern = r"^\d{1,2}/\d{1,2}/\d{2,4}, \d{1,2}:\d{2} ?(?:AM|PM) - "
 
     messages = []
@@ -147,10 +149,9 @@ def dump_duplicates(data):
         # break
 
 def main():
-    fname = 'userdata/sabarimala/chat-sabarimala.txt'
-    fname = 'userdata/wa-sabarimala-short.txt'
     fname = 'userdata/wa-sabarimala.txt'
-    messages = load_whatsapp_chat(fname)
+    attachments_path = "userdata/sabarimala/"
+    messages = load_whatsapp_chat(fname, attachments_path)
     print(json.dumps(messages, indent=4))
 
     # dump_duplicates(messages)

@@ -3,6 +3,11 @@ import re
 from datetime import datetime
 import json
 from collections import defaultdict
+import sys
+
+from config import source_file 
+from config import attachments_path 
+from config import output_file 
 
 def process_line(line, base_path, message_start_pattern, current_message):
     """Processes a single line and determines its type (new message, system, or multiline)."""
@@ -100,23 +105,7 @@ def load_whatsapp_chat(file_path, attachments_path):
 
     rfd.close()
     
-    # messages.append(current_message)
     return messages
-
-
-# Function to remove duplicates
-def remove_duplicates(data):
-    seen = set()
-    unique_data = []
-    for d in data:
-        # Serialize the dictionary to a JSON-formatted string
-        json_str = json.dumps(d, sort_keys=True)
-        if json_str not in seen:
-            seen.add(json_str)
-            unique_data.append(d)
-        else:
-            print(json_str)
-    return unique_data
 
 def dump_duplicates(data):
     print(type(data))
@@ -149,20 +138,19 @@ def dump_duplicates(data):
         # break
 
 def main():
-    fname = 'userdata/wa-sabarimala.txt'
-    attachments_path = "userdata/sabarimala/"
-    messages = load_whatsapp_chat(fname, attachments_path)
-    print(json.dumps(messages, indent=4))
+    print(f"Source file      :{source_file}")
+    print(f"attachments_path :{attachments_path}")
+    print(f"output_file      :{output_file}")
+    print()
 
-    # dump_duplicates(messages)
-    print(f"Messages len :{len(messages)}")
+    messages = load_whatsapp_chat(source_file, attachments_path)
 
-    # data = remove_duplicates(messages)
-    # print(f"After deleting duplicates :{len(data)}")
-
-    wfd = open("chat-sabarimala.json", "w")
+    wfd = open(output_file, "w")
     json.dump(messages, wfd, indent=4)
     wfd.close()
+
+    print(f"output file generated :{output_file}, with :{len(messages)} records")
+    print()
 
 if __name__ == "__main__":
     main()

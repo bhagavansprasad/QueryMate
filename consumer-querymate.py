@@ -5,12 +5,10 @@ import time
 from debug_utils import whereami
 from config import vectdb_name
 from config import collection_name
-from config import collection
-
 
 def client_query_data(collection, query, result_count=2):
     print(f"\nQuery :{query}")
-    details = ['distances', 'metadatas', 'documents']
+    details = ['distances', 'metadatas', 'documents', 'embeddings']
     results = collection.query(
         query_texts=query, n_results=result_count, include=details)
     # whereami(f"results :{results}")
@@ -40,6 +38,7 @@ def dump_results(reply):
     ids = reply["ids"][0]
     metadata = reply["metadatas"][0]
     documents = reply["documents"][0]
+    embeddings = reply['embeddings'][0]
     retval = []
 
     for i, id in enumerate(ids):
@@ -48,14 +47,16 @@ def dump_results(reply):
         reply = documents[i]
 
         print(msg := f"\t{author} ({datetime}) :~$ {documents[i]}")
+        # print(embeddings)
         retval.append(msg)
+        print()
 
     return retval
 
 
 queries = [
-    {'query': ['quick bytes solution'], 'qcount': 10},
-    {'query': ['Create a user-defined function Quick Chicken Bites'], 'qcount': 10},
+    # {'query': ['travel plan'], 'qcount': 10},
+    {'query': ['bhagavan'], 'qcount': 10},
     # {'query' : ['assignment 2'], 'qcount' : 2},
     # {'query' : ['Messages from Bhagavan'], 'qcount' : 5},
     # {'query' : ['Baljeet contact number please'], 'qcount' : 2},
